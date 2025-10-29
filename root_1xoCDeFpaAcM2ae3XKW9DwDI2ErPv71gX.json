@@ -162,9 +162,10 @@
   {
     "id": "gdrive-folder:1m5MeiolSq_wmMwk217UUEnXa-UTlOzcb",
     "type": "series",
-    "name": "Mary George",
-    "poster": "https://cdn-icons-png.flaticon.com/512/716/716784.png",
-    "description": "📂 Folder"
+    "name": "Mary & George",
+    "poster": "https://image.tmdb.org/t/p/w1280/vYxOmU1w2uxIXV2FZIUc0bG347w.jpg",
+    "description": "In 17th century England, Mary Villiers molds her beautiful son, George, to seduce King James I, intending to gain riches and influence through outrageous schemes."
+     "background": "https://image.tmdb.org/t/p/original/iiEZ76O3icsDtpYyZ88NRdL6kRt.jpg"
   },
   {
     "id": "gdrive-folder:1H8sPZC4A6Sd-bp27QCwvbdnNu8Wf-nNa",
