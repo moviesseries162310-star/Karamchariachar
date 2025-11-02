@@ -3808,5 +3808,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5R7xT8NCl8XkUqmQWaQP2OAKpy.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive-folder:1EtTIotwhRIUvXpCMg-57vlGmZdHZcBc6",
+    "type": "movie",
+    "name": "Bad Papa",
+    "poster": "https://image.tmdb.org/t/p/w500/rWKec54hDGiDjtQh1savtkwrhcj.jpg",
+    "description": "Yoo Ji-Cheol used to be a top boxer, but he lost everything in a moment. All of his money and fame vanished and his life was ruined. He decides to gain control of his life through mixed martial arts.",
+    "background": "https://image.tmdb.org/t/p/w1280/yUpt1b3Le1txTCWgSi2drh5lWfY.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "8.8"
   }
 ]
