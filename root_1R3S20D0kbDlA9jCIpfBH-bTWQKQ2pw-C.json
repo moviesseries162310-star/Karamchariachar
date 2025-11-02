@@ -2138,5 +2138,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kJeXTvZGoxS1XQQStD6uDBdsskY.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1kZbS4L3OLJFPzuURnVJwnrH-f3GgEZq9",
+    "type": "movie",
+    "name": "Catch The Ghost",
+    "poster": "https://image.tmdb.org/t/p/w500/7CbhB19d9PlcxAW8YRzKSDBK1RG.jpg",
+    "description": "A romantic investigative drama about rookie detective Yoo-Ryung who solves cases with her overflowing sense of justice and exceptional spatial perception but always gets herself into trouble because of her rash actions. She meets the Wangsimni station constabulary chief, a man who avoids cases and seeks stability who always ends up cleaning up after the problems caused by Yoo Ryung and holds the key to solving the cases.",
+    "background": "https://image.tmdb.org/t/p/w1280/jaFm3oeh2UgvSBTXcEjWauOFHBg.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.6"
   }
 ]
