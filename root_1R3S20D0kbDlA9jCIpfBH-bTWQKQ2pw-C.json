@@ -1868,5 +1868,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bd1uYBQnd9HRex77LTiMughdKKK.jpg",
     "released": "2024-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:1ZHg13mm7j24wpfU8kvJHE_wp2G5d7kw1",
+    "type": "movie",
+    "name": "Got a Crush on You",
+    "poster": "https://image.tmdb.org/t/p/w500/s53AleCEotfCfAR36MXDLmtQ9pt.jpg",
+    "description": "Song Xing Chen is a 29-year-old doctor with a difference: While all of her co-workers are focused on performing well and making money for the hospital, she cares more about her appearance and fashion. Some think she used her good looks to win herself a top position at the hospital. But she drops a bombshell on her colleagues at her promotion dinner – by announcing she wants to quit!\n\nNow, instead of following the path her family set out for her, she has decided to go her own way. As she begins her “new” life, she witnesses a fearless man rescue a helpless dog from a window ledge. This man turns out to be a lifetime singleton and single-minded rescue team leader named Su Qing Che. Later, their paths cross again – as they meet (and bicker) on a blind date. Is this to be the beginning of a fresh rivalry... or a budding romance?",
+    "background": "https://image.tmdb.org/t/p/w1280/o1jtmgjkOBntg44Te1a98nKeNz9.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.1"
   }
 ]
