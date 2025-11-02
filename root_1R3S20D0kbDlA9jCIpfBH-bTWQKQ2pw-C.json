@@ -4928,5 +4928,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/slL2JBIblCsIQnyBQn8Twt1Yz2z.jpg",
     "released": "2015-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive-folder:1Pzjpw6xl3v-eiX1DOtQ1iS5AZP2w78jl",
+    "type": "movie",
+    "name": "Qing Qing Zi Jin",
+    "poster": "https://image.tmdb.org/t/p/w500/np1itBmkXLoqaoi7FQpG6Z7cjb6.jpg",
+    "description": "Luo Qiuchi, an aspiring poet who joins Zhu Xiu Academy to refine his craft. There, he meets Fu Yuanzhi, the academy's top student, and defeats him in a poetry competition with his simpler, heartfelt style. As Luo Qiuchi and his peers navigate challenges, they grow and ultimately triumph in an academic exchange between the An Nan and Da Tang kingdoms. Luo Qiuchi's journey culminates in becoming the top scholar in the national exams, making a meaningful contribution to his country.",
+    "background": "https://image.tmdb.org/t/p/w1280/j1iTjrH0uKEe69lFqammCzBslOw.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.2"
   }
 ]
