@@ -3698,5 +3698,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2Lpea6Mx3cvNPhvQrKY9DQDw4G0.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1xjhn7b3nO7kk4iOVO8nAlPMUy1lhjVrn",
+    "type": "movie",
+    "name": "Hospital Ship",
+    "poster": "https://image.tmdb.org/t/p/w500/gnUbaSeyXZErslzKsoyFRze2Xvs.jpg",
+    "description": "A story of young doctors, who provide medical care to remote island residents via a hospital ship.",
+    "background": "https://image.tmdb.org/t/p/w1280/bw4GopbafdwI7riBNmKN6Putipc.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.2"
   }
 ]
