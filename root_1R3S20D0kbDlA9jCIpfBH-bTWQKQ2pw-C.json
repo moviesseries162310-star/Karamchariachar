@@ -2518,5 +2518,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3yNJV0kEARGmE4DqRa6ySN3Iblj.jpg",
     "released": "2019-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive-folder:13Aiz4hP1CQsZRu4G97_8qwSK8NG0U0qr",
+    "type": "movie",
+    "name": "Bargain",
+    "poster": "https://image.tmdb.org/t/p/w500/ttsq2iTUvry6ILFuWt9JqZXYx2I.jpg",
+    "description": "A group of strangers gather at a remote motel with ulterior motives – seeking to bargain. After an unexpected earthquake traps them inside the building. With no one to trust, they must find a way to survive.",
+    "background": "https://image.tmdb.org/t/p/w1280/ieHg9WQKBGiNQGFLWmvaSfzHu8r.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.0"
   }
 ]
