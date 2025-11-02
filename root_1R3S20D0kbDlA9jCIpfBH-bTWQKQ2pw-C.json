@@ -4478,5 +4478,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/h7aCnXv03s1MeJIP5KxB1M53HdW.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1KttUXbQnXMZA4J9u8ryLHH5xY2-N22-p",
+    "type": "movie",
+    "name": "Bloody Heart",
+    "poster": "https://image.tmdb.org/t/p/w500/cTiempmGquBdYhsd3Yyk1gCmV08.jpg",
+    "description": "It is a fictional historical drama about the story of King Seonjong who ascends to the throne due to a rebellion, and Lee Tae who becomes the King after him.",
+    "background": "https://image.tmdb.org/t/p/w1280/x1ylzxZUgr4RMXCCh7iwEcvx8ri.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.9"
   }
 ]
