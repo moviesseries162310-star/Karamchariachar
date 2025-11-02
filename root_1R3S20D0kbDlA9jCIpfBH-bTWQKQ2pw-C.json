@@ -578,5 +578,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive-folder:1SW-ePnoq8y0z2cJobDvxtPHvz5HSzpbr",
+    "type": "movie",
+    "name": "Exploration Method of Love",
+    "poster": "https://image.tmdb.org/t/p/w500/2DFMf3k5MCs4LTsmLHRzFBybBSq.jpg",
+    "description": "The Su family has twin daughters with very different personalities. One became a doctor of geology and the other became a star in the entertainment industry, until the day she disappears leaving a letter of resignation and a lot of damage in her wake. In desperation her twin sister is kidnapped and forced to replace her on a variety tv show. On top of trying to survive the entertainment business, she also has to pretend to be her sister with her sister's rich and handsome VP boyfriend. What kind of sparks will these two start?",
+    "background": "https://image.tmdb.org/t/p/w1280/beXOXQdae57OMrBaWTbkmrNtdOP.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.5"
   }
 ]
