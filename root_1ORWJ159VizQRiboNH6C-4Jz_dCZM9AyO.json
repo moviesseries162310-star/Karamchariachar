@@ -445,5 +445,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/neSEJU1hazhkqKp1tzwec9q2FKg.jpg",
     "description": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
     "background": "https://image.tmdb.org/t/p/w1280/ztruG6mR07igZWchQHiaFkND8Di.jpg"
+  },
+  {
+    "id": "gdrive-folder:1upIhx0MMxykIQcMu8p1Cy_TmrLC-_axL",
+    "type": "movie",
+    "name": "Rulers of Fortune",
+    "poster": "https://image.tmdb.org/t/p/w500/2TqtXFRt1sE6ifbaq8PO7bzA8Ai.jpg",
+    "description": "A young man aspires to rise through the ranks of Rio's gambling underworld — unaware of the dangerous game of betrayal, lust and blood that awaits him.",
+    "background": "https://image.tmdb.org/t/p/w1280/1b2OYNA3Ikq9BBwk6If8As89bge.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.1"
   }
 ]
