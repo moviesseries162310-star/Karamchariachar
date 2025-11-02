@@ -4408,5 +4408,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/99QsUq10CAcEp35F5z6xxu90MpO.jpg",
     "released": "2021-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive-folder:1F69EJbtaSMdLkrBhXXqz6gRA2YBcKBWi",
+    "type": "movie",
+    "name": "Adamas",
+    "poster": "https://image.tmdb.org/t/p/w500/jhfZRo3krONzarJFot6WCw99uxH.jpg",
+    "description": "Twin brothers Woo-sin and Soo-hyun lose their father in a murder case. Twenty-two years later, the brothers seek to clear their father's name.",
+    "background": "https://image.tmdb.org/t/p/w1280/dJJ9dH80HwWGERo5U59tw9JzYBQ.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.7"
   }
 ]
