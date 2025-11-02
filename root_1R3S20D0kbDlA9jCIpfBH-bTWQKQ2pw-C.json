@@ -2078,5 +2078,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yeuK2pEl0rgUZ9Q7yttaRQMjjNc.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive-folder:1vS7uDCCPuybnxxhmWpTtO4p8hKX0bQRK",
+    "type": "movie",
+    "name": "Encounter",
+    "poster": "https://image.tmdb.org/t/p/w500/vC6ypAo2mA7Wxc5Hml8fUeuod7R.jpg",
+    "description": "A story of two strangers meeting at the most unlikely place and sharing an important moment, not knowing that they will soon be brought again by fate, fall in love, and challenged by the very different worlds they live in.",
+    "background": "https://image.tmdb.org/t/p/w1280/6QT5dQYHMAr1P9DoyIQFwSuyrpH.jpg",
+    "released": "2021-01-01",
+    "imdbRating": null
   }
 ]
