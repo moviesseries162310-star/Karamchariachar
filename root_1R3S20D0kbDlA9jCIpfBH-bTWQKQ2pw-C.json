@@ -1168,5 +1168,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/70mJMLCmWdVNSUPFOvvcS2TOoqz.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.7"
+  },
+  {
+    "id": "gdrive-folder:18QbQB0T9m4VZuOfNIRmL9z6ZCMp9WCGX",
+    "type": "movie",
+    "name": "Radiant Office",
+    "poster": "https://image.tmdb.org/t/p/w500/5cpANNfhpYNfPxvUNmQyvtMVTkQ.jpg",
+    "description": "Ho Won is a young woman who struggles to find a steady job. Tired and hopeless, she attempted suicide. Hospital check-up discovers she might have terminal illness. Soon after, a furniture company accepts her as a contract worker. Faced with a possibility of dying, Ho Won decides to just let herself loose. Her newfound bold attitude puts her at odds with her workaholic manager Woo Jin.",
+    "background": "https://image.tmdb.org/t/p/w1280/2bxpm1qW5W4RjValqLwzLxONKWD.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.9"
   }
 ]
