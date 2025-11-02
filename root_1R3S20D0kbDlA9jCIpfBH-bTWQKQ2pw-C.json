@@ -1008,5 +1008,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cHc2b05x8mkE6aSOpPTNt6cyrpS.jpg",
     "released": "2011-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1Gcoc58gvdCveHa5bsj3z-QtHfXXveP6X",
+    "type": "movie",
+    "name": "Sweet Strawberries",
+    "poster": "https://image.tmdb.org/t/p/w500/5iSY62Jw9xBGRvu9yepZ4qKHkpf.jpg",
+    "description": "When the school year starts at Barra Secondary school, a big artistic contest is launched to find the new talents of tomorrow. All students are excited, but a string of mysterious disappearances preceded by cyberbullying will disturb this cheerful excitement and divide the students. Everyone has something to hide, so everyone could be the next one to disappear...",
+    "background": "https://image.tmdb.org/t/p/w1280/jEPA2s2DMbJOTm0tZFI7XZrHQJR.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "5.4"
   }
 ]
