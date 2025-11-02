@@ -888,5 +888,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/inTz9GnLqH0Qc48aeLUxi7rkdGP.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.3"
+  },
+  {
+    "id": "gdrive-folder:18nhcgwQiNTyPiOk8vLxJXj5sxAnNDqeL",
+    "type": "movie",
+    "name": "Something in the Rain",
+    "poster": "https://image.tmdb.org/t/p/w500/sTNXMCASbNn7cSzcQ7DVazixnAc.jpg",
+    "description": "Explore the relationship of two people as they go from being “just acquaintances” to “a genuine couple” — Yoon Jin Ah, a coffee shop  supervisor in her 30s, and Seo Joon Hee, a designer at a video game company who has just returned from working abroad.",
+    "background": "https://image.tmdb.org/t/p/w1280/vS5A1aSR00eEjkBpLFJ6XpfT0Ak.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.8"
   }
 ]
