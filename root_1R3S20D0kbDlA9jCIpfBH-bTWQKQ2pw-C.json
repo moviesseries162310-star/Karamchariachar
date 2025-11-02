@@ -4568,5 +4568,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4T7e0hXhv807qffapB8AZ1ro1Zb.jpg",
     "released": "2015-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive-folder:1LUdU7xZvZeNFcQhDMI5iIzG3pN6acixv",
+    "type": "movie",
+    "name": "Stove League",
+    "poster": "https://image.tmdb.org/t/p/w500/80BizmL21vPy8g7qS5lcxOWh7Ig.jpg",
+    "description": "Se Young is the youngest head of the management team of Dreams, a cellar-dwelling baseball team. She's highly recognized for her perseverance and intense passion for the team. One day, Seung Su is appointed as a general manager. Although he's been working in the sports field, the teams he led to the championship were unpopular, and some of them were even disbanded after winning the league due to the financial difficulties of their parent companies. Would this unlucky new general manager be able to steer Dreams to the championship with passionate Se Young?",
+    "background": "https://image.tmdb.org/t/p/w1280/gpUlQGB8ptBKgKa2c59QTiqTy3l.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "8.2"
   }
 ]
