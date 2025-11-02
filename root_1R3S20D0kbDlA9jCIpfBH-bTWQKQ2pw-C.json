@@ -1908,5 +1908,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qhT3qZzpxzny54mKsIaekosYdkL.jpg",
     "released": "2021-01-01",
     "imdbRating": "2.8"
+  },
+  {
+    "id": "gdrive-folder:1fNy6Uw9BJPcrtn3EI7LTnOSfI7VYHtz6",
+    "type": "movie",
+    "name": "Bad Prosecutor",
+    "poster": "https://image.tmdb.org/t/p/w500/t5GIFwntLGrGomQfioCOPnvVZR6.jpg",
+    "description": "The delinquent prosecutor destroys everything corrupted with wealth and power. His face-off with evil begins.",
+    "background": "https://image.tmdb.org/t/p/w1280/jAyyqoQj4Re9Qjal0QJdpYbZVmg.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.4"
   }
 ]
