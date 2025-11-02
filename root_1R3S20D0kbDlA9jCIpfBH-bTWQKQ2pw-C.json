@@ -4428,5 +4428,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bnEDaINpzWGBsE8IjA3TsU4FWeJ.jpg",
     "released": "2022-01-01",
     "imdbRating": "8.1"
+  },
+  {
+    "id": "gdrive-folder:102gaa3Duck5p07HN3m3Ale3UgSWUyGat",
+    "type": "movie",
+    "name": "One Dollar Lawyer",
+    "poster": "https://image.tmdb.org/t/p/w500/AoyepneE9LkLSlVKdJb33mcXfFe.jpg",
+    "description": "Courts are not equally accessible to everyone and people lose trust in the judicial system. But here comes a lawyer with the best skills and a commission fee of just one dollar, committed to social justice and defending fundamental human rights. This extraordinary defense lawyer confronts blindfolded justice and highly paid opposing counsel for his clients' rights.",
+    "background": "https://image.tmdb.org/t/p/w1280/lem4oW4vcI1nf0OR4DdJLoBE3h1.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.5"
   }
 ]
