@@ -1108,5 +1108,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/imfW4Kwg3pynRu1djbypXjAteZ9.jpg",
     "released": "2022-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:16nNYgOROFgGHgwqL7He25zbgg383yBPc",
+    "type": "movie",
+    "name": "My Star Bride",
+    "poster": "https://image.tmdb.org/t/p/w500/8XkztQWLQIKhbK6PwzUdLbqZBjF.jpg",
+    "description": "Mei Fangcao, an ordinary girl from Vietnam, takes a leap of faith by coming to Singapore as a \"bride\", hoping to raise medical fees for her mother and find her long-lost sister. She meets Zhong Shijie, who was recovering from a devastating car crash. With her sincerity and resilience, she convinces Shijie to accept her as his bride. As their fates intertwine, Fangcao's life takes a dramatic turn",
+    "background": "https://image.tmdb.org/t/p/w1280/yxUdONsQ4ZHNHQt35dCHoJ4nQ0p.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "5.0"
   }
 ]
