@@ -5028,5 +5028,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xeDuEXvNRkcyB4ANTpLObPOa8g3.jpg",
     "released": "2016-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1ymgrHLj1uDS_xDBQNiWchFsnHatspjWq",
+    "type": "movie",
+    "name": "Monstrous",
+    "poster": "https://image.tmdb.org/t/p/w500/fuHREsrbmBejFXREu5DgmzQaYm8.jpg",
+    "description": "A giant Buddha statue is unearthed in a small rural town. The mayor believes that it will change the town into a major tourist attraction. However, a catastrophe starts to grow. A centuries-old curse is unleashed from the statue, and it starts to eat up people's souls and make them non-human. Jung Ki-hoon, as archaeologist tries to seek the truth behind the paranormal phenomenon.",
+    "background": "https://image.tmdb.org/t/p/w1280/Aj4v0yjtiDigo0pNEVgJPynsWAm.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "5.7"
   }
 ]
