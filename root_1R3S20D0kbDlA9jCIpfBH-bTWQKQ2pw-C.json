@@ -3858,5 +3858,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8QmG7RPONnm32REpLpRXKYv7yyr.jpg",
     "released": "2018-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1DiQ5sqlvsJ3Whe04fxy9qU7TTwUXVvE7",
+    "type": "movie",
+    "name": "Strange School Tales",
+    "poster": "https://image.tmdb.org/t/p/w500/hGnY0ZVm8GuuQSsR49ENQW8OiOt.jpg",
+    "description": "A film drama that combines the merits of a film and a drama consists of three buses: 8 Years, The Child Who Wouldn't Come and Karma.",
+    "background": "https://image.tmdb.org/t/p/w1280/t1doc4QR6eiRJoVh0mJJD5JOnS0.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "5.7"
   }
 ]
