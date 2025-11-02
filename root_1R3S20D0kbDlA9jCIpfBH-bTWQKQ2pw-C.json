@@ -3288,5 +3288,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ur7Z7E6t1B6fWMreXNMpsUTcBGX.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.2"
+  },
+  {
+    "id": "gdrive-folder:14iqohtNhbp3xpOYbW4JKZQscR76zsOj5",
+    "type": "movie",
+    "name": "First Love",
+    "poster": "https://image.tmdb.org/t/p/w500/dnmnNzo2EqWIoaKyHdnMARDZK4L.jpg",
+    "description": "First Love is an American soap opera which ran on NBC Daytime from July 5, 1954 to December 30, 1955. The series aired at 4:15 p.m. EST, between Golden Windows and Concerning Miss Marlowe. Although the show had a strong fan following, at the time NBC had little use for developing any of their daytime shows and canceled First Love after a year and a half. Many cast members such as Patricia Barry, Val Dufour and Rosemary Prinz went on to become long-running daytime stars.\n\nCreated by Adrian Samish and written by Manya Starr, the series centered around jet engineer Zach James and his difficult marriage to Laurie James. Due to being neglected as a child, Zach was obsessed with building a name for himself. Laurie tried to understand him but was unable to help him deal with his problems, as he went on trial for the murder of an aviatrix he may have been having an affair with.\n\nThe show became known chiefly for a major blooper early in its run. A Friday cliffhanger involved Zach seeing his friend Chris crash his plane. Zach ran to tell Chris' wife Amy, \"Chris cracked up the plane.\" In his rush, Dufour blurted out, \"Chris crapped\", then abruptly added, \"...on the plane.\" Patricia Barry began to giggle. When the camera cut to a \"bereaved\" Prinz, she was shaking with laughter. Supposedly NBC nearly fired all three actors, but changed their minds after fans wrote in praising them for the scene. In 2003 Prinz denied such a scene ever made it to the air.",
+    "background": null,
+    "released": "1954-01-01",
+    "imdbRating": "5.0"
   }
 ]
