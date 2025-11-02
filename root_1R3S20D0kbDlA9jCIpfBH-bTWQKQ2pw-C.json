@@ -2408,5 +2408,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zMZ75Ui71g5QjDgEeFpn26bqDCA.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive-folder:1ezW438t7X6RFUO_cdkpe9PdEoKwNFzIc",
+    "type": "movie",
+    "name": "Daily Dose of Sunshine",
+    "poster": "https://image.tmdb.org/t/p/w500/d9hIiomaPXu6W9qATzPSqHgxze8.jpg",
+    "description": "A kind-hearted nurse working in psychiatry goes above and beyond to be a ray of light for those under her care, despite the challenges coming her way.",
+    "background": "https://image.tmdb.org/t/p/w1280/bhCUn6Z509qTV4eBJZtjtQ4ennL.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.1"
   }
 ]
