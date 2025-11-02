@@ -3068,5 +3068,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5YJi8AAdBS0eKQtztERiMBEK9GD.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive-folder:1JKgJrjo9Aty61MUVJklln0uhHWxA0q24",
+    "type": "movie",
+    "name": "Celebrity",
+    "poster": "https://image.tmdb.org/t/p/w500/9tPpGvhfAKUWcGZVlRaNFz16sPT.jpg",
+    "description": "Self-proclaimed faith healer T.J. Luther, movie star Mack Crawford and journalist Kleber Cantrell share a fateful reunion in a deserted Texas cabin that was the scene of a night of violence over two decades.",
+    "background": "https://image.tmdb.org/t/p/w1280/jTIsEv24JqRyypKApTi9LDgSSLY.jpg",
+    "released": "1984-01-01",
+    "imdbRating": "6.0"
   }
 ]
