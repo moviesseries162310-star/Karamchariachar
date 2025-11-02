@@ -2214,5 +2214,15 @@
     "poster": "https://image.tmdb.org/t/p/w1280/on01rDIOO7uV4wyaOEf8nktma40.jpg",
     "description": "A mystery evil thriller which finds the truth of a recording tape containing mysterious serial killings and unidentified sounds in a small city.",
     "background": "https://image.tmdb.org/t/p/original/lLw2e88QkH5LuJVEgwJw4X501aa.jpg"
+  },
+  {
+    "id": "gdrive-folder:1LUPiB-NsU_a5wj02To182Bx7siE6hrWi",
+    "type": "movie",
+    "name": "Walking on Thin Ice",
+    "poster": "https://image.tmdb.org/t/p/w500/n1ayYBVKw63GxU9npXQtNjHY81C.jpg",
+    "description": "Eun-soo is a housewife, who struggles to pay for her husband's medical expenses. He is terminally ill. Eun-soo becomes entangled in a bag of drugs with a teacher named Yi-kyeong. He is a mysterious figure. Eun-soo and Yi-kyeong are chased by veteran detective Tae-gu.",
+    "background": "https://image.tmdb.org/t/p/w1280/5O3Cb3YQWNwqx7W7IZ7kdMDxPgN.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.3"
   }
 ]
