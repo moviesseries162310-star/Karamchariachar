@@ -208,5 +208,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/l9SnQHg8nfPIU7Vuu5HMcvZu6Ex.jpg",
     "released": "2021-01-01",
     "imdbRating": "7.7"
+  },
+  {
+    "id": "gdrive-folder:1Z5ngLh7Tq4LrUpDkqNaL3FsGh4Ctf5M2",
+    "type": "movie",
+    "name": "Double Love",
+    "poster": "https://image.tmdb.org/t/p/w500/52RhWRcMkeyLMz1n1TAxWaPb3l4.jpg",
+    "description": "Lu Wanwan, a rookie in the acting industry and a game player, and Han Jingmo, a strong actor and a game master, who fall in love with each other online and offline and achieve a double success in love and career. In the game, Lu Wanwan due to a slip of fingers, accidentally knocked away the server number one \"Mo Bai Zhi Jian.\" The two become connected because of this and began an interesting game journey. In reality, Lu Wanwan has always admired Han Jingmo's works, but was put down by him in public. In a fit of rage, they turned against each other, and started a battle. The two of them move from the game to reality, reaping the benefits of love while also realizing their dream of acting.",
+    "background": "https://image.tmdb.org/t/p/w1280/haa2oP894hZDJghBd5dgOZ1HoEB.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.3"
   }
 ]
