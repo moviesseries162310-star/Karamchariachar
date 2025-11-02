@@ -2148,5 +2148,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jaFm3oeh2UgvSBTXcEjWauOFHBg.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive-folder:1MPeWCFpFP3hKqD2V-ZWqTOolgLcBB28N",
+    "type": "movie",
+    "name": "Stranger",
+    "poster": "https://image.tmdb.org/t/p/w500/gNGjGWM1XsQHF5RAL11Zv7sCrzM.jpg",
+    "description": "",
+    "background": "https://image.tmdb.org/t/p/w1280/jSsJ58iwXyt5oldSMNjG9wrkFFG.jpg",
+    "released": "2021-01-01",
+    "imdbRating": null
   }
 ]
