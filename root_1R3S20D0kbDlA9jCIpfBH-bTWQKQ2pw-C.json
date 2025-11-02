@@ -158,5 +158,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vhVLnjCzkEvtZdZSedkyT4wR4WV.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive-folder:1Pc6V0KHDMnAXvn31abKkXlchFgkLgQTI",
+    "type": "movie",
+    "name": "Brilliant Class",
+    "poster": "https://image.tmdb.org/t/p/w500/jzSrugWVQIZ2rDvdRtfX1m00Cf7.jpg",
+    "description": "Former pop star Xiang Dongnan becomes a high school music teacher through a reality show and clashes with strict English teacher Su Qi, sparking a battle of wills as they navigate school life, mysterious leadership, and a classroom full of spirited students.",
+    "background": "https://image.tmdb.org/t/p/w1280/4FNSUudMMWbg8V4n1x7i1soMlqD.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "4.0"
   }
 ]
