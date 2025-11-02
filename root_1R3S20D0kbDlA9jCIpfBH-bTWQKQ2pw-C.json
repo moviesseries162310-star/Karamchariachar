@@ -1778,5 +1778,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/it0fRj6zOV9o5rIzxmjqqSAAS8t.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive-folder:1o6AtJ8PuF5pmrE2I36e4cOXmuOweS8_l",
+    "type": "movie",
+    "name": "Sweet First Love",
+    "poster": "https://image.tmdb.org/t/p/w500/g5DcbMk9Tdcqb4XMB5HZdd0kINo.jpg",
+    "description": "After losing her parents in a tragic accident, Zhuo Yifeng suppresses her past through selective amnesia and takes on a new identity as Su Nianfeng. Raised by her parents' friend alongside his son, Su Muyun, she struggles with an uneasy sibling-like relationship. As she navigates high school, Su Nianfeng finds inspiration in her close friend Yue Diyin, whose warmth and resilience motivate her to pursue a career in medicine despite his battle with a mysterious illness.",
+    "background": "https://image.tmdb.org/t/p/w1280/lrmUH2GN9G1BnRrjjWabrjA8bn3.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.2"
   }
 ]
