@@ -2358,5 +2358,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pcyVB92oAuA2PQR8aoDurLETNda.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:12iGyOHauMDglsNuD_66QJgBy8RONhh_P",
+    "type": "movie",
+    "name": "Blanca",
+    "poster": "https://image.tmdb.org/t/p/w500/ygLft4UvzyeMUZegHNwcCKo7TgG.jpg",
+    "description": "Blanca Ferrando is a young woman who became blind at the age of twelve, due to a dramatic fire in which her older sister Beatrice died and which was caused by her violent boyfriend, Sebastian. This tragedy made her develop a very strong sense of justice to the point of pushing her to join the police. Blanca is helped by her most trusted friends: her guide dog Linneo, a female bulldog who protects and comforts her in the most difficult moments, and her beautician friend, Stella. After overcoming her work challenges, she finds herself facing sentimental ones: torn between two men, Inspector Michele Liguori, a man of many secrets, and Nanni, a young cook.",
+    "background": "https://image.tmdb.org/t/p/w1280/svY25lKfw2SkMEayjqYKvcjY2rg.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.6"
   }
 ]
