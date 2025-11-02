@@ -4128,5 +4128,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/trOVoa8uRgD3HkZFtbldFQ0B6Xk.jpg",
     "released": "2020-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive-folder:1qP-bfXJiv2SiAsQfcRbNwhEclybxzaEk",
+    "type": "movie",
+    "name": "Good Bye My Princess",
+    "poster": "https://image.tmdb.org/t/p/w500/vk1MYxqBvRMuUhVhORhSSEQ4Zj7.jpg",
+    "description": "A love story revolves around the 9th Princess of Western Liang as she journeys to the Central Plains to fulfill a marriage alliance with the Crown Prince. Having received overwhelming love and admiration as the 9th Princess, Xiao Feng is forced to leave the life that she has known in order to become the Crown Princess. Her husband, the black-bellied Crown Prince, holds the highest position second only to one, the Emperor. However, the Eastern Palace is the most dangerous place to be. For political reasons, the Prince has no choice but to marry the Princess from a foreign land. He has his own favored concubine while she has her own life. Two parallel lines begin to intersect in a place fraught with danger and deadly power play and buried somewhere deep inside are memories that have yet to resurface.",
+    "background": "https://image.tmdb.org/t/p/w1280/5hic4IzW13445yfTm1jl9Anwxyl.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.5"
   }
 ]
