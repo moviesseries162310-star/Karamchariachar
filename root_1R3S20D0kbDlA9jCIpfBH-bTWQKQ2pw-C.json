@@ -958,5 +958,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qx3n3mjHt0e9IP7z3haF7jQZ7m5.jpg",
     "released": "2019-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive-folder:1-gJkalO766f1IjZGBV3uYS3uf8rpOhxa",
+    "type": "movie",
+    "name": "Doctor Stranger",
+    "poster": "https://image.tmdb.org/t/p/w500/odH9cebqUNHKh1p6BKVSs0gsD34.jpg",
+    "description": "As a child, Park Hoon and his dad were kidnapped and taken to North Korea. He grew up there, learning to be a doctor just like his father. When Park Hoon escapes back to South Korea and begins work at a prestigious hospital, he makes it his goal to earn enough money to go back to North Korea to rescue his true love. He'll do anything to find her, but then he meets and falls for a mysterious woman who looks exactly like her.",
+    "background": "https://image.tmdb.org/t/p/w1280/mTb5sBKD5GkAE6vHyjZH3kR3v1T.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "8.1"
   }
 ]
