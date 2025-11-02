@@ -1128,5 +1128,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bJfkWXQDKLEdEzwakrEArAqtISP.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:14CJqGzT4MgZJRc10Mvnlz4R0g3Qnu8dq",
+    "type": "movie",
+    "name": "Love with Flaws",
+    "poster": "https://image.tmdb.org/t/p/w500/eq4ITUNT2SJTGuUkxO2aHyGyO96.jpg",
+    "description": "A romantic comedy about a woman that hates men with pretty face, a man that is obsessed with his looks, and how the people with flaws get over their prejudice!\n\nLee Kang-Woo has strikingly good looks and thinks the world revolves around him. He is obsessed with his looks and enjoys it when people stare at him. He was dumped because he was ugly and gets mysophobia with appearance ever since. On the other hand, Joo Seo-Yeon grew up with three good-looking brothers and hates men with pretty face. The man of her dreams is “A man that isn’t handsome”. This TV series depicts in a pleasant way of how a woman who fought against the irrationality of lookism changes when she meets a man obsessed with his looks.",
+    "background": "https://image.tmdb.org/t/p/w1280/gsCZBX3cIqumypDgVQLOnSEau2K.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.8"
   }
 ]
