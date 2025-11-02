@@ -4608,5 +4608,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qzw3CA3AqrLsBa25XUjLLpkWrAk.jpg",
     "released": "2017-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive-folder:1TQzV7VmsJKTcy7u7duZxe20D79CtH3i2",
+    "type": "movie",
+    "name": "Love Script",
+    "poster": "https://image.tmdb.org/t/p/w500/21qxUtCJK6EnFElEe6iR8eLUFBu.jpg",
+    "description": "Zhu Xuanwen is a strikingly handsome, highly intelligent, and incredibly wealthy man who seems to have it all. However, he suffers from a neurosis stemming from a childhood car accident, believing he is Emperor Jianwen of the Ming Dynasty. This delusion leads him to neglect his real-life responsibilities, leaving his company’s management to others while focusing on building a palace and ruling his imagined empire.\n\nConcerned for his well-being, those close to him seek professional help, hiring Luo Kaihuai, a mental health professional. Desperate for money, she takes on Xuan Wen's unusual case. As a member of the emperor’s \"harem,\" Kaihuai faces challenges in trying to help Xuanwen, who consistently resists her efforts. She must navigate this complex dynamic to find a way to assist him.",
+    "background": "https://image.tmdb.org/t/p/w1280/sp959S94K9sbxocrSF4Oyf7NtLz.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "9.0"
   }
 ]
