@@ -218,5 +218,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/haa2oP894hZDJghBd5dgOZ1HoEB.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:19usROOo0wc3sm7YTdTcPr-W4jwKjU758",
+    "type": "movie",
+    "name": "Lovely Runner",
+    "poster": "https://image.tmdb.org/t/p/w500/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg",
+    "description": "Right after Ryu Sun-jae, a top star, ends his life, Im Sol, his top fan, somehow ends up at a time when they were in high school and tries to protect him. A fantasy romance unfolds where people who missed each other in time finally meet.",
+    "background": "https://image.tmdb.org/t/p/w1280/6urwgErwqjndIas26NUy6CAdCDE.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "8.6"
   }
 ]
