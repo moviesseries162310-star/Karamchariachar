@@ -1798,5 +1798,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5BvjF6KH25BKSQcNYDdzVhtnPzJ.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1HdBlxSsZnpqkxq5r_oVH85yFGhJlmiqk",
+    "type": "movie",
+    "name": "Amidst a Snowstorm of Love",
+    "poster": "https://image.tmdb.org/t/p/w500/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
+    "description": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
+    "background": "https://image.tmdb.org/t/p/w1280/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.9"
   }
 ]
