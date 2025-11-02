@@ -588,5 +588,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/beXOXQdae57OMrBaWTbkmrNtdOP.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive-folder:10Jt1wHvmWrbzGFR60hGcFqwoXo9VcCMW",
+    "type": "movie",
+    "name": "My Annoying Roommate",
+    "poster": "https://image.tmdb.org/t/p/w500/mVJveUqqVT06WnE8DHSc7ABEyfu.jpg",
+    "description": "In the second semester of her junior year, 17-year-old Su Qiao welcomed her new desk mate, the \"big celebrity\" Lin Zi Lu. However, his appearance immediately brought misfortune to Su Qiao. What's even more absurd is that he not only cost her money but also moved into her house, taking over her bedroom. They hadn't been on good terms since they played together ten years ago, and all Su Qiao could think was, \"Classmate, when are you moving out of my house?\" But Lin Zi Lu didn't just stay; he also became good friends with students like Guan Jin Jin and Fang Liang at school, leaving Su Qiao feeling \"isolated\".",
+    "background": "https://image.tmdb.org/t/p/w1280/9mkxZcoQQVhCsyV1rIl2QQsC5mz.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.0"
   }
 ]
