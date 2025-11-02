@@ -1918,5 +1918,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jAyyqoQj4Re9Qjal0QJdpYbZVmg.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive-folder:15Zc4W1xDXTS7XjRI0b33vAe1l3xfXuqC",
+    "type": "movie",
+    "name": "Blade Man",
+    "poster": "https://image.tmdb.org/t/p/w500/pRt6yU9zAJfzc9VhARcmn8tIFNl.jpg",
+    "description": "Hong Bin might've been oppressed by love and his father. However, he comes across his first love again.",
+    "background": "https://image.tmdb.org/t/p/w1280/pvsWjucGkYmxHNf9RRVQ1mwaYGP.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "5.9"
   }
 ]
