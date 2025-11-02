@@ -2558,5 +2558,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
     "released": "2016-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:1jTR_UrTVMazt09SpOngYneOsdB_oaMf6",
+    "type": "movie",
+    "name": "Clean with Passion for Now",
+    "poster": "https://image.tmdb.org/t/p/w500/2kov55Hblkd4JfGfDallO3LGT4S.jpg",
+    "description": "Gil Oh-so, an employee at a cleaning company, meets Jang Seon-gyul, the boss of the company. The two are diametric opposite when it comes to cleanliness. With the help of Oh-sol, Seon-gyul faces his mysophobia and falls in love with her.",
+    "background": "https://image.tmdb.org/t/p/w1280/qrWC0j3M3mGCTaD7YFTn37niUXc.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.4"
   }
 ]
