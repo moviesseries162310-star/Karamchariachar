@@ -798,5 +798,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zC4ExR1QAVCzCKc11wufsbhn9J9.jpg",
     "released": "2021-01-01",
     "imdbRating": "4.7"
+  },
+  {
+    "id": "gdrive-folder:1p4o363SocZW15zyA3igHFQyhdzJwqkDL",
+    "type": "movie",
+    "name": "Smile to Life",
+    "poster": "https://image.tmdb.org/t/p/w500/v068TuyCFAcX6ogN7OGSvba36eb.jpg",
+    "description": "Xu Duo Cheng is a young girl full of joy and life. No one knows that there's a shadow behind her smile: she actually suffers from the ALS disease, which means she won't have long to live and will eventually slowly but surely end up paralyzed. Due to that, Duo Cheng does her best to enjoy the rest of her days to the fullest.\n\nBut things becomes difficult when she meets the handsome, young musician Jiang Nan who falls for her.\n\nWill she give in to her heart or will she walk away from him to protect him from the pain?",
+    "background": "https://image.tmdb.org/t/p/w1280/xnWC76eszapgnm7NMaL7cLeaCNt.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "5.0"
   }
 ]
