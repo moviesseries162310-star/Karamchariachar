@@ -2928,5 +2928,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/43FSu75gWQfCQjyM9YB6zGOCNZ8.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive-folder:1VE_MaxpxZzxTollx6kavth5qltzDAP_C",
+    "type": "movie",
+    "name": "Doctor Detective",
+    "poster": "https://image.tmdb.org/t/p/w500/693tpPhfqQhlqfw77nQmz9t3299.jpg",
+    "description": "In modern society, there are people who are neglected and suffering. They are often involved in unfortunate events, such as industrial accidents, and end up dying. Most of the disasters could be prevented in advance with little attention. However, some companies or public organizations tend not to prepare for potential accidents because of the high cost. That’s how industrial accidents take place. Doctor Detective is a drama where medical doctors treat the patients suffering from industrial accidents and look into the truth behind the accidents. The story of the drama starts when Joong Eun, who is an enormously talented medical doctor, gets to join an undiagnosed disease center(UDC) in the middle of experiencing difficulties in her personal life. And she starts to look into her patients' diseases caused by industrial accidents and work on revealing the truth concealed by those with power.",
+    "background": "https://image.tmdb.org/t/p/w1280/dOz7U0jlbBZINeULoXGjh5aDc7U.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "5.6"
   }
 ]
