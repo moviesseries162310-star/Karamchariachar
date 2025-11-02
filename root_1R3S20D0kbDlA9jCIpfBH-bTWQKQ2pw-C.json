@@ -3418,5 +3418,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kIlLAXtX4bsczZusSlqa5Etvohz.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive-folder:1cxCrYpE5xSfa8ZTG0FY02ohGyQRSJUR2",
+    "type": "movie",
+    "name": "Master's Sun",
+    "poster": "https://image.tmdb.org/t/p/w500/8dNQTTHAirWwCpQM85amONPcZSA.jpg",
+    "description": "Joo Joong-won is the arrogant, greedy CEO of Kingdom, a  conglomerate that includes a supermall and a hotel. \"Ghost whisperer”  Tae Gong-shil, is a misunderstood outcast who can't keep a  boyfriend or a job since a near death experience left her seeing needy  ghosts. She feels compelled to help them resolve their earthly issues so  they can move on to the afterlife... and he feels compelled to think  she's crazy. Soon their lives merge into a complicated web of hijinx,  misunderstandings, and... yes, love.",
+    "background": "https://image.tmdb.org/t/p/w1280/nWouM3r27oueJE09uumlHenSJp0.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "8.0"
   }
 ]
