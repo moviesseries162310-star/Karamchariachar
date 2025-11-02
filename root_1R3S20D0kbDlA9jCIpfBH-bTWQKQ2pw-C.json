@@ -1788,5 +1788,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lrmUH2GN9G1BnRrjjWabrjA8bn3.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive-folder:1LFVqtEc9K3O3NlXKNPWgSthF7i5wXXsX",
+    "type": "movie",
+    "name": "The 8 Show",
+    "poster": "https://image.tmdb.org/t/p/w500/umBNBnKThMmF1QQZixZ7rsYOowq.jpg",
+    "description": "Eight individuals trapped in a mysterious 8-story building participate in a tempting but dangerous show where they earn money as time passes.",
+    "background": "https://image.tmdb.org/t/p/w1280/5BvjF6KH25BKSQcNYDdzVhtnPzJ.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.3"
   }
 ]
