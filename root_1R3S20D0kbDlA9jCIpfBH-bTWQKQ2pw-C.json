@@ -3048,5 +3048,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/acN6aVNCRRkRf6XlxAADcVws6Tx.jpg",
     "released": "2016-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive-folder:1bnz_40BEfPmnEuDmtmRCvVQOR7BH8qOa",
+    "type": "movie",
+    "name": "The King's Affection",
+    "poster": "https://image.tmdb.org/t/p/w500/2Qim2grFzfNJ4h3QSTzxi8CsKdG.jpg",
+    "description": "When the crown prince is killed, his twin sister assumes the throne while trying to keep her identity and affection for her first love a royal secret.",
+    "background": "https://image.tmdb.org/t/p/w1280/4r7scgI5aUrShN0YzriAatWd15e.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "8.2"
   }
 ]
