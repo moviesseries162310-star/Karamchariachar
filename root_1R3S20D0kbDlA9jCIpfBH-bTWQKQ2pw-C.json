@@ -688,5 +688,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mSgYZCkDYvxwBvGtIDIVKuYorV.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:1pRpH1BcLIPOw0EmZ8JZW3M0f0Aibn1Bd",
+    "type": "movie",
+    "name": "My Dear Lady",
+    "poster": "https://image.tmdb.org/t/p/w500/fupcFl4ElSFwwFBTf5CqNOn7EVy.jpg",
+    "description": "After getting a divorce from her husband, Ling Xunxun decides to celebrate her singlehood. However on her way to a party, her car collided with a luxurious car on the roadside. The owner of the car Cheng Li, a young man who appears to be a university graduate, asked her for a huge amount of compensation. What makes the situation worse is that the he also turns out to be the boss of her new company.",
+    "background": "https://image.tmdb.org/t/p/w1280/aMAiIFwp3XRPBrwDXvDfF1K9IUk.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.2"
   }
 ]
