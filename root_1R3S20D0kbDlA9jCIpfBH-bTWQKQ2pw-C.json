@@ -2998,5 +2998,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hjBzcAaVrPFIz4Eq0AViSyWWYxS.jpg",
     "released": "2018-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1Yv2SUMGh82BU6pFWWiiWAhnarrpsDZFr",
+    "type": "movie",
+    "name": "The Love by Hypnotic",
+    "poster": "https://image.tmdb.org/t/p/w500/e7TdSKz8lepKCFTxn7D4C6b6s55.jpg",
+    "description": "A princess and a prince who can't see eye to eye find themselves stuck in an arranged marriage. Yet they start opening up to each other because of hypnosis.\n\nLi Ming Yue, a princess, and Li Qian, a prince, are forced to marry each other due to royal obligations. When she triggers memories from his past through the use of hypnosis, Li Qian starts to accept his wife knowing that she can help him regain his memories.",
+    "background": "https://image.tmdb.org/t/p/w1280/7XI78TjbqIzxt8gRVQXmnQDCg2D.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.7"
   }
 ]
