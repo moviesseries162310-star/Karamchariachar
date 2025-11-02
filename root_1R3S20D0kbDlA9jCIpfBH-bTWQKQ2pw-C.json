@@ -98,5 +98,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fAGhk5U9MKQPVO4TsSB0uAaFrfh.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.5"
+  },
+  {
+    "id": "gdrive-folder:1mNDjdLbzVPYFrY8eXG6Ozo_ExKxC09C7",
+    "type": "movie",
+    "name": "The Resurrected",
+    "poster": "https://image.tmdb.org/t/p/w500/l1bJ4lSl2pSMpCFpIhhKeT7N34a.jpg",
+    "description": "Two grieving mothers resurrect a scam ringleader to avenge their daughters — but as painful truths emerge, justice slips from their reach.",
+    "background": "https://image.tmdb.org/t/p/w1280/hvSHnrbLlR829PqGdf1PXQZuDPb.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.8"
   }
 ]
