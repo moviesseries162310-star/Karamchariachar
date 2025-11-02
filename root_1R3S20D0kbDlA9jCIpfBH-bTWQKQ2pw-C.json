@@ -4798,5 +4798,15 @@
     "background": null,
     "released": "2023-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1nCZrJI1LOMn4VPlwiBARB5lwMoX8rSme",
+    "type": "movie",
+    "name": "The Mask",
+    "poster": "https://image.tmdb.org/t/p/w500/gYY9tS0gG2XcTF5gRILjCH8flu8.jpg",
+    "description": "",
+    "background": "https://image.tmdb.org/t/p/w1280/74IbLfLv12yXCajkmvpUusvUO1A.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "9.0"
   }
 ]
