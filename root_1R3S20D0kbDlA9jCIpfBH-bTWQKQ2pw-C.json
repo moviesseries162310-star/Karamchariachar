@@ -3608,5 +3608,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sOXinmPHOVHCcnNAKilKGMJdXo.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive-folder:15eG1sI_kTbL0JXdqFQpI3DAHqW2uAaSU",
+    "type": "movie",
+    "name": "SF8",
+    "poster": "https://image.tmdb.org/t/p/w500/vDXJ2OTLQkdGbqUIa3ntL0Qvhz.jpg",
+    "description": "SF8 revolves around people who dream of a perfect society, and it tackles the conflict between technology and human. It encapsulates a variety of topics such as artificial intelligence, virtual reality, robots, games, fantasy, horror elements, superpowers, disasters, and more.",
+    "background": "https://image.tmdb.org/t/p/w1280/p5julLq9dqAonz64BzDOqyxhfOF.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.1"
   }
 ]
