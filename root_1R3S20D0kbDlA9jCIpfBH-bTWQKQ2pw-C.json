@@ -2638,5 +2638,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/swdlL4gCeRsYU5pC2wh9fzzQt2V.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:1Mup4A4GLjF3tUy5bNf9kZRCV-FK60FRe",
+    "type": "movie",
+    "name": "Lucky Romance",
+    "poster": "https://image.tmdb.org/t/p/w500/hH8nO4YuXMlNBJBYJ6iEmzwQqwD.jpg",
+    "description": "Relying on the words of a shaman, a superstitious woman tries to sleep with a man born in the Year of the Tiger in order to save her sister's life.",
+    "background": "https://image.tmdb.org/t/p/w1280/z5xx5X1yIcFM308wQfA1V3nkMGr.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.6"
   }
 ]
