@@ -1968,5 +1968,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/oBUi286ITmuZJexj8lWlQplCPF6.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive-folder:1rzsQDABxVywlavMy81IKMrUL1bZfNVwG",
+    "type": "movie",
+    "name": "Chicken Nugget",
+    "poster": "https://image.tmdb.org/t/p/w500/9hefpkltcFLcZSKXr65l0mPMRKn.jpg",
+    "description": "A woman steps into an odd machine and becomes... a chicken nugget?! Now, it's up to her father and admirer to embark on a zany quest to bring her back.",
+    "background": "https://image.tmdb.org/t/p/w1280/7pg8P17yImSmR7z5QO3nF0d7RB1.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.3"
   }
 ]
