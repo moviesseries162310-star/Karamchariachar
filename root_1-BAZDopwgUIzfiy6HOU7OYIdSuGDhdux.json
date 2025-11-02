@@ -682,5 +682,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/lmGRZEuIQtArmyGjt6Ay5Y74hk2.jpg",
     "description": "Marina Quiroga, a daring upper-class girl with a detective's soul, sets off to catch the serial killer that has been terrorizing her town with her faithful butler Hector's help.",
     "background": "https://image.tmdb.org/t/p/w1280/s42RBJH1I9yyRRSdxlUzYmAPgGH.jpg"
+  },
+  {
+    "id": "gdrive-folder:11FOQSrlx95DAai7l6DdBuLQh8ldkMPRL",
+    "type": "movie",
+    "name": "Amsterdam Empire",
+    "poster": "https://image.tmdb.org/t/p/w500/bssBGroBgZCHmn4jbbTmttt7VEq.jpg",
+    "description": "When Jack's affair comes to light, his wife Betty hatches a bitter plan to strip him of the thing he loves most: The Jackal, his coffeeshop empire.",
+    "background": "https://image.tmdb.org/t/p/w1280/2sORBXHcWuh000pKAl93bsMmf76.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.7"
   }
 ]
