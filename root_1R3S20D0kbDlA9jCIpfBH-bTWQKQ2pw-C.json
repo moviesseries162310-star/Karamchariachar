@@ -1508,5 +1508,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cdnIjh89JX9eZ2VpHmyoIsKEbha.jpg",
     "released": "2021-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1t_kZRo7dXmBspEPkUMDs3zlZpv8fio37",
+    "type": "movie",
+    "name": "Gen Z",
+    "poster": "https://image.tmdb.org/t/p/w500/tSka2GTaeSu3VAehOEjI2cggnHZ.jpg",
+    "description": "Gen Z is a series which portrays how the younger generation deals with life’s struggles while striving to achieve their ambitions and its impact on their relationships with family and friends.",
+    "background": "https://image.tmdb.org/t/p/w1280/9B5dokfbUCJOIiRMPrk1nvFyqfx.jpg",
+    "released": "2021-01-01",
+    "imdbRating": null
   }
 ]
