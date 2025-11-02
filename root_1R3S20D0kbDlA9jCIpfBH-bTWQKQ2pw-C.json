@@ -3548,5 +3548,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/avrdUeLJGEwip57FQHDhQ7DwBey.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1SJC6bnrsbOV1CDQPe6ZGW2Ja4_yqaqt9",
+    "type": "movie",
+    "name": "Tribes and Empires: Storm of Prophecy",
+    "poster": "https://image.tmdb.org/t/p/w500/ckRjT4TG2nP3FTA6Ub87hME4tMg.jpg",
+    "description": "Muyun Sheng, born from a spirit mother, is the unfavoured sixth son of the reigning Emperor Ming of Duan. Discovering an ancient painting by chance, he is captivated by the spirit locked inside (Panxi), and together, they promise to search for the most beautiful places on Earth. Muru Hanjiang, friend of Muyun Sheng, is the son of General Muru Shuo, famous for conquering the Eight Tribes of Han Province.\n\nMany years later, the descendant of the Eight Tribes Shuofeng Heye sows discord between the Muyun and Muru families. Only when the friendship and loyalty between these two families is rebuilt will the Duan Dynasty be safe from invasion by the Eight Tribes. This drama tells of the loyalty, friendship, enmity and romance between the young descendants during the twilight years of the Duan Dynasty.",
+    "background": "https://image.tmdb.org/t/p/w1280/zSXdG3YPZkORYzfON3pOS6nhn97.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "4.4"
   }
 ]
