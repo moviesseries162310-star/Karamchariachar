@@ -178,5 +178,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/69XQBvpQmIHS4NJKsuI06KId458.jpg",
     "released": "2021-01-01",
     "imdbRating": "4.7"
+  },
+  {
+    "id": "gdrive-folder:1ESuFpiNRuLfZ9-wRV0DPdL1Co0IFWYJG",
+    "type": "movie",
+    "name": "Genie, Make a Wish",
+    "poster": "https://image.tmdb.org/t/p/w500/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+    "description": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+    "background": "https://image.tmdb.org/t/p/w1280/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.3"
   }
 ]
