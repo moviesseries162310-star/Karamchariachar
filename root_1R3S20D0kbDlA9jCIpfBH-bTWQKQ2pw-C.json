@@ -2828,5 +2828,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jCua4hbhQbBou4y8BXayjLQADRl.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1-Gy6tJk3a7veVCNZf8YZLgIzx9h6t5Z9",
+    "type": "movie",
+    "name": "The Rebel",
+    "poster": "https://image.tmdb.org/t/p/w500/5Qs3Bk38S65h5Tsi2EVZGHvSLIG.jpg",
+    "description": "After the end of the Civil War, a former Confederate Army private roams the Wild West, and, as a rogue drifter, gets involved in helping out various settlers threatened by various bad guys...\n\nTHE REBEL is a 76-episode American western television series starring Nick Adams that debuted on the ABC network from 1959 to 1961. The Rebel was one of the few Goodson-Todman Productions outside of their game show ventures. Beginning in December 2011, The Rebel reruns began to air Saturday mornings on Me-TV.",
+    "background": "https://image.tmdb.org/t/p/w1280/j7LMUCYLuUbSo8egTZYUu7LCzbe.jpg",
+    "released": "1959-01-01",
+    "imdbRating": "4.7"
   }
 ]
