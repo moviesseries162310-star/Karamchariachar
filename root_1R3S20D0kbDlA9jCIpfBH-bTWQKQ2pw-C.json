@@ -3708,5 +3708,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bw4GopbafdwI7riBNmKN6Putipc.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive-folder:1MsT--lY9iXwZhKpoAewjBIjxt1zsLh6k",
+    "type": "movie",
+    "name": "Swords of Legends",
+    "poster": "https://image.tmdb.org/t/p/w500/8oenw5SKBSr9cENPxsQg07xjOY6.jpg",
+    "description": "Set during the Tang Dynasty, a young and quiet swordsman name Baili Tusu is infected by the aura of an ancient demonic sword known as the Sword of Burning Solitude. Living with the dark energy, he grew up without family. Until one day, he meets a friendly girl Feng Qingxue along with a group of heroes, and together they wander the land to seek out destiny and bring balance to the world.",
+    "background": "https://image.tmdb.org/t/p/w1280/ieXHwoTUNeqylzszbVOlmC4grhq.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "6.6"
   }
 ]
