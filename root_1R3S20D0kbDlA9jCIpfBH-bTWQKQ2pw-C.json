@@ -568,5 +568,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8l1BN0IIjHmRyW0oDfUfs3F6F4N.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.7"
+  },
+  {
+    "id": "gdrive-folder:1WTQ8MduT4xfAkq0Yw8wuKMTCwLy-Ek_8",
+    "type": "movie",
+    "name": "Mercy for None",
+    "poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
+    "description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
+    "background": "https://image.tmdb.org/t/p/w1280/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.8"
   }
 ]
