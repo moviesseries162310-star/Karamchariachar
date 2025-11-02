@@ -1768,5 +1768,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:1rYJc3flEyHdxggYaDI5iYLRRBVxHWUzh",
+    "type": "movie",
+    "name": "Partners for Justice",
+    "poster": "https://image.tmdb.org/t/p/w500/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+    "description": "Baek Beom has worked as a forensic doctor for 10 years. He has a bad personality, but he is excellent with his work. Baek Beom does not open his mind to other people. Eun Sol is a rookie prosecutor with a warm heart. She has a bright personality and she comes from wealth family background. The forensic doctor and prosecutor work together to solve cases.",
+    "background": "https://image.tmdb.org/t/p/w1280/it0fRj6zOV9o5rIzxmjqqSAAS8t.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.8"
   }
 ]
