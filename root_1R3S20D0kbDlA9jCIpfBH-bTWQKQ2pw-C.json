@@ -2718,5 +2718,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bBKE6Sl9NnueGw1qK2HkrlNaIKG.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.3"
+  },
+  {
+    "id": "gdrive-folder:11rrFkZC2CPP-UFkk576pZjSranKXBh_1",
+    "type": "movie",
+    "name": "The Beauty Inside",
+    "poster": "https://image.tmdb.org/t/p/w500/2ljuDEUnjFsaP090hFIZhh51w9.jpg",
+    "description": "Efsun, who works as a dermatologist, lives peacefully on the farm with her father in a village in Gaziantep. Her mother left her and her father at a young age and moved to Istanbul and became one of Turkey's most important plastic surgeons. Efsun suddenly receives news from her mother, whom she has not seen since she was 12 years old. Her mother is on her deathbed and wants to see her one last time. She invites Efsun to Istanbul by sending her driver. Efsun, who goes to Istanbul to see her mother, is in for a big surprise. Her mother, the owner of the largest aesthetic clinic in Istanbul, asks Efsun to work in the clinic and forces her to do so. As if all this is not enough, Emir, who she thinks is a driver, is actually the son of her mother's partner Kaya Bey. Emir, a handsome and charismatic surgeon, thinks that Efsun has come to take the clinic away from him, and starts a fight with Efsun. Moreover, these young people are neighbors.",
+    "background": "https://image.tmdb.org/t/p/w1280/ra2t2Q9n9V90e4t0ND3JBnU0mPy.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "8.4"
   }
 ]
