@@ -748,5 +748,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/l72DDinwfNq9eHMNjbRyqI0mVlP.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive-folder:1JwKH05ieSYWk1rOTMVwxSm5zAT6JPVz4",
+    "type": "movie",
+    "name": "The Divorce Insurance",
+    "poster": "https://image.tmdb.org/t/p/w500/6HAbRWYkX3bouEeHA4bjsUxznKC.jpg",
+    "description": "No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
+    "background": "https://image.tmdb.org/t/p/w1280/tSeyn9VqrAKuMytgDCXY9iMGXa8.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.8"
   }
 ]
