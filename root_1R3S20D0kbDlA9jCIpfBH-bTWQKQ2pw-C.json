@@ -398,5 +398,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kjYDb6QHp0c7IjP5KjMSmuLfsW1.jpg",
     "released": "2022-01-01",
     "imdbRating": "5.2"
+  },
+  {
+    "id": "gdrive-folder:1G2vLn_IWP0vygDbC47CdbJ5VgV4xU2ai",
+    "type": "movie",
+    "name": "Trigger",
+    "poster": "https://image.tmdb.org/t/p/w500/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+    "description": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
+    "background": "https://image.tmdb.org/t/p/w1280/5FNa2FWtoSGFYc3x34T9dPHdFAi.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.5"
   }
 ]
