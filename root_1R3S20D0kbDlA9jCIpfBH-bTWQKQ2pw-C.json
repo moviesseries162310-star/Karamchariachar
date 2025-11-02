@@ -1268,5 +1268,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7t1wk3Hh7r2OV42RzeTJXqQHNUf.jpg",
     "released": "2016-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1-0Qk5XepQ6R_sbtX-5a7cj0vZAqpEy4Q",
+    "type": "movie",
+    "name": "Joseon Attorney: A Morality",
+    "poster": "https://image.tmdb.org/t/p/w500/r9s6F4IgFyPyjSh7n7wGMRO6Mp0.jpg",
+    "description": "Set in the Joseon era, an exhilarating legal revenge of a lawyer who avenges the death of his parents by trial begins.",
+    "background": "https://image.tmdb.org/t/p/w1280/qO8mP9sI1ZHZlxsuFGQ6HmbORwN.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "5.4"
   }
 ]
