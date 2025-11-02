@@ -2378,5 +2378,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4qdBUqMmVobPZH3a5LwIawf22cT.jpg",
     "released": "2021-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive-folder:1FHJjBcri4ckukCSPah1Ez8V1QUt0hHbr",
+    "type": "movie",
+    "name": "Violet like the sea",
+    "poster": "https://image.tmdb.org/t/p/w500/AmGnTDwQxcL9y8NuX8XNF0ZDizp.jpg",
+    "description": "Viola Vitale, Miss Italy and fashion journalist, returns to Sicily to look for her father. She starts working for a digital news company and joins police inspector Francesco Demir in solving crime with the help of synesthesia.",
+    "background": "https://image.tmdb.org/t/p/w1280/kLiwgVtM1Vg9R5aftu23zyITvCo.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.7"
   }
 ]
