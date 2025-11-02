@@ -4008,5 +4008,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
     "released": "2021-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:1ZwdSU7jTSxxGCdtIgL5H7pLR99XZCWln",
+    "type": "movie",
+    "name": "The Sound of Magic",
+    "poster": "https://image.tmdb.org/t/p/w500/muaqMAPiEEYILOdDv72PC8sZ7HQ.jpg",
+    "description": "An enigmatic magician living in an abandoned amusement park introduces magic into the life of a high schooler struggling with harsh realities.",
+    "background": "https://image.tmdb.org/t/p/w1280/ft9kPRULcAN7hgjvzpEfmtROiQR.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.7"
   }
 ]
