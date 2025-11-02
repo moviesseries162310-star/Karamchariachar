@@ -2528,5 +2528,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ieHg9WQKBGiNQGFLWmvaSfzHu8r.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1GqYxzLsYwP_y1gLnL9Jh_FmG0VeipsoD",
+    "type": "movie",
+    "name": "Strong Girl Nam-soon",
+    "poster": "https://image.tmdb.org/t/p/w500/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
+    "description": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
+    "background": "https://image.tmdb.org/t/p/w1280/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "7.6"
   }
 ]
