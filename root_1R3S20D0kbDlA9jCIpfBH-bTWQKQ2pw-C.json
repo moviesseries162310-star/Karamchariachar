@@ -3388,5 +3388,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bivWGBrxM6yATFuN8YpeYuZfZZh.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive-folder:11Yo9qA9mjGWszmCYGhyIqmmE8d_sLzZR",
+    "type": "movie",
+    "name": "My Golden Life",
+    "poster": "https://image.tmdb.org/t/p/w500/n04DUwIbWuvBrpzLh5H3oszLMjq.jpg",
+    "description": "A hardworking contract worker desperate for a full-time job finds her life turning upside down after an unexpected revelation about her family.",
+    "background": "https://image.tmdb.org/t/p/w1280/9KxL293xuasA6Uv34voOyzPFhVp.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.4"
   }
 ]
