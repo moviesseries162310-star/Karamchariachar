@@ -4538,5 +4538,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cxID8WiRaEQPZaBnqgTUsRzzonp.jpg",
     "released": "2019-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive-folder:1uDoPR8OJyX-tf8LDoiSUseA4zCs4ufLT",
+    "type": "movie",
+    "name": "Beautiful World",
+    "poster": "https://image.tmdb.org/t/p/w500/vXX5V6ZdLRlVRGUCGEEajazODX0.jpg",
+    "description": "This drama tells the story of a boy who becomes critically injured due to an incident of school violence and his family who seeks the truth and fights for justice in his name.",
+    "background": "https://image.tmdb.org/t/p/w1280/8WkTT6iogTrIPQ2F5JuBF6Zypw2.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.9"
   }
 ]
