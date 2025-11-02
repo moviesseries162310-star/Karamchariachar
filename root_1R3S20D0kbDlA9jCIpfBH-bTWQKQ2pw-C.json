@@ -2698,5 +2698,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/w8qgp9FONrtIHmtGmXwKBIcdume.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive-folder:1Iog0D8jkXhhoKpvt8O_hfAOe2vnAYMx1",
+    "type": "movie",
+    "name": "Mr. Right",
+    "poster": "https://image.tmdb.org/t/p/w500/rkYbcJtm95nonOF8pvszZ4CngtJ.jpg",
+    "description": "Cheng Hao is a dentist who spends his free time helping others devise ways to get the girl of their dreams, despite the fact that he has never been in love. He meets Luo Yue who deals with jerks and heartbreakers.",
+    "background": "https://image.tmdb.org/t/p/w1280/avogbyUzbZCwDuhnQvXzx6dirNP.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "8.0"
   }
 ]
