@@ -4838,5 +4838,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6duvyxTYkDRGCzvTvXMwnojlXot.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1gJhE9SJB6aCBQ9HQ-EmbLdf552lRSXZA",
+    "type": "movie",
+    "name": "Love Story of Court Enemies",
+    "poster": "https://image.tmdb.org/t/p/w500/5INd39kFPAXxRQwyHq5sCELEc14.jpg",
+    "description": "During the Yongzheng era, Yu Xing enters the palace as a chef to reunite with her sister, Cai Feng, but faces exile after a misstep. In the countryside, she learns healing arts and helps during a pandemic. Returning to the capital, she rebuilds her life as a medical trainee and finds love with a noble general, Yue Zonglin.",
+    "background": "https://image.tmdb.org/t/p/w1280/nhM9ewm1I0CySr342PrAvqC2RAe.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.0"
   }
 ]
