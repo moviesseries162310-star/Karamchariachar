@@ -648,5 +648,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4b7Yn8EvusHsOmwHZuRQgL6aXwG.jpg",
     "released": "2021-01-01",
     "imdbRating": "8.7"
+  },
+  {
+    "id": "gdrive-folder:1ILShqH7fgY18j9oMLeg8cEF8Sl3vu1G5",
+    "type": "movie",
+    "name": "Fish Show You",
+    "poster": "https://image.tmdb.org/t/p/w500/npiTeyIyUXsDIkCgTebhq3vddgK.jpg",
+    "description": "A wealthy girl, An Xin’er, who accidentally gets fish scale skin and loves others wrongly, is trapped in chaos after being conformed. By chance, she is saved by the simple and kind Yu Sheng, and with his help, she cures the strange disease, walks out of the shadow, and writes a new life.",
+    "background": "https://image.tmdb.org/t/p/w1280/woMY3XmCZQHEMpdMGq2l96dHG0T.jpg",
+    "released": "2023-01-01",
+    "imdbRating": null
   }
 ]
