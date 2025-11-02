@@ -2338,5 +2338,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/d3jnEps2be5FCZB5jKkGtHWoxjn.jpg",
     "released": "2016-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive-folder:1dw5TbmdacMzbbzsvfelD8RC2gC-u73v5",
+    "type": "movie",
+    "name": "Dine with Love",
+    "poster": "https://image.tmdb.org/t/p/w500/wRDGV68FgwH5LxOlKUSyqWKUMOg.jpg",
+    "description": "The series tells the story of Yu Hao, who doesn't know how to cook and even doesn't have a kitchen. For the food platform he created, he sponsored a food reality show and appeared on his own. But efficiency is the priority, he doesn't want to waste time learning to cook for this, so he offends the show crew by shooting with a stand-in.  Su Ke Lan was appointed to become the director of public relations when he was in danger, took over the work of public relations to deal with the crisis, and became Yu Hao's culinary teacher. She took him into the kitchen and slowly began to enter his heart.",
+    "background": "https://image.tmdb.org/t/p/w1280/ztbO8rnxReKKJTmIMBksi1vIky8.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.1"
   }
 ]
