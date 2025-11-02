@@ -4288,5 +4288,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fud3sTtdZOhabjkxIuOw1udJLOH.jpg",
     "released": "2025-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1B9rvWrkORjqH2zRa4Qv39_CIR__2yA3j",
+    "type": "movie",
+    "name": "Ms. Temper & Nam Jung Gi",
+    "poster": "https://image.tmdb.org/t/p/w500/muBaNgGA4UpYB7c7kf3mMOd4PHB.jpg",
+    "description": "Ok Da-Jung is the youngest team leader in the cosmetics industry. She has divorced three times so far. She doesn't care what others think about her and she also has quite a temper. Nam Jung-Gi works as a section chief at the same cosmetics company as Ok Da-Jung. Unlike her, Nam Jung-Gi has a timid and nice personality. He can't say anything that makes others uncomfortable. He is able to make Ok Da-Jung's blood boil.",
+    "background": "https://image.tmdb.org/t/p/w1280/pynE6UssEtIfuTEgjnAy89RC0sM.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "6.1"
   }
 ]
