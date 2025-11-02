@@ -3258,5 +3258,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/x4MMu9Cv2K22iuDHDDHLKgvLuVc.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive-folder:1fnjbkItudxMq1R6oejQ7S-iU4yiUOY7s",
+    "type": "movie",
+    "name": "The Chair",
+    "poster": "https://image.tmdb.org/t/p/w500/kz14K7vI2KNGyfTyBnYjBpA0pzQ.jpg",
+    "description": "At a major university, the first woman of color to become chair tries to meet the dizzying demands and high expectations of a failing English department.",
+    "background": "https://image.tmdb.org/t/p/w1280/ciPayBurt18UQw2D2yNBDdXw2Zg.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.5"
   }
 ]
