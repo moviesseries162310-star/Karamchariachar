@@ -1628,5 +1628,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vC3m6cjWmvVrq46U64i81HSZYxz.jpg",
     "released": "2019-01-01",
     "imdbRating": "2.2"
+  },
+  {
+    "id": "gdrive-folder:1JRYRL8sZ7NRJlfH8Fgoke4DIqp7vq65g",
+    "type": "movie",
+    "name": "Cute Bodyguard",
+    "poster": "https://image.tmdb.org/t/p/w500/8MvQgYiNRqVRl9sPpcOPEH3gqdq.jpg",
+    "description": "Two people from seemingly two different worlds are brought together when an accident leads to Su Jingjing, a seemingly cute girl with supernatural ability getting hired as Gu Rong's bodyguard.",
+    "background": "https://image.tmdb.org/t/p/w1280/yqNP8ideW0FtDgU0QYjHmERXFBd.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "8.2"
   }
 ]
