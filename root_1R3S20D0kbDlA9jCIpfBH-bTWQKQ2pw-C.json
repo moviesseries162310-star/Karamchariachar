@@ -4198,5 +4198,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/AoA8SKDo03ru1gohrqy6qRvtcOk.jpg",
     "released": "2018-01-01",
     "imdbRating": "7.7"
+  },
+  {
+    "id": "gdrive-folder:10bkUI9Z7ThOiD6ch_XnzbKYaPgFdEROl",
+    "type": "movie",
+    "name": "All I Want for Love is You",
+    "poster": "https://image.tmdb.org/t/p/w500/nIdwhoQmwLgB6gZPcPApKz5qctY.jpg",
+    "description": "Graduation is fast approaching for 3rd-year high school student Gu Xiaoman, a sanda fighter, who wins medals in sports but not in class. Because she wants to continue to be schoolmates with her idol Zuo An, she decides to give the same effort to academics as she does to sanda. Her hard work combined with Zuo An's efforts to be her personal teacher pays off and they get into the same university.",
+    "background": "https://image.tmdb.org/t/p/w1280/zkq2nP1t2LAcpLc0cAeXLyvqpkU.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.3"
   }
 ]
