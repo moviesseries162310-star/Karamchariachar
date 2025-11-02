@@ -728,5 +728,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vu5F4wLOBPFWYcBkJ3at2XKJgGa.jpg",
     "released": "2016-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive-folder:1RLm2AuiQTo6QH64nypKDvusz-o-EC_VN",
+    "type": "movie",
+    "name": "Karma",
+    "poster": "https://image.tmdb.org/t/p/w500/gQmmBWN1vV9QcNNk2nlmA2D7222.jpg",
+    "description": "Karma is a 25 part Indian weekly superhero-fantasy television drama aired on STAR Plus from August 27, 2004 to February 11, 2005 on Friday nights. Karma, directed by Pawan Kaul and written by Subodh Chopra, involves the battle between good and evil as the titular superhero faced off against demonic evil. The main cast of the show was Siddharth Choudhary in the titular role of Karma, Riva Bubber and Tinu Anand.\n\nIn 2007, the drama was re-aired on STAR Utsav.",
+    "background": "https://image.tmdb.org/t/p/w1280/pF5dCwY7GcAjyQ5w5CrtX8pKLrM.jpg",
+    "released": "2004-01-01",
+    "imdbRating": "5.4"
   }
 ]
