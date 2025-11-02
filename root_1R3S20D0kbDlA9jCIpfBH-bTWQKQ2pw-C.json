@@ -2598,5 +2598,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4LrM5d8FtNNSqzXyEoOVX2EiMd.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive-folder:17epfQiL40k-VREwhhmQGjN077HcIFNsF",
+    "type": "movie",
+    "name": "The Legend of the Blue Sea",
+    "poster": "https://image.tmdb.org/t/p/w500/vhBdwKSYOvops4o68X1zNXqEDF1.jpg",
+    "description": "A mermaid from the Joseon period ends up in present-day Seoul, where she crosses paths with a swindler who may have ties to someone from her past.",
+    "background": "https://image.tmdb.org/t/p/w1280/d84gSpBXdl7smdKlwnIWQPewEgs.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "7.4"
   }
 ]
