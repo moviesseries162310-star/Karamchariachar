@@ -5088,5 +5088,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kUKVJAXdk8DREDZBjBy43wJNcQQ.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive-folder:17C1G_jtxWq5eXw-DKZuOYZ5nK8mYNwk-",
+    "type": "movie",
+    "name": "Children of A Lesser God",
+    "poster": "https://image.tmdb.org/t/p/w500/kF2zhd48xOO4awj9zsyW6QT5b88.jpg",
+    "description": "Kim Dan, a detective who can feel someone’s feelings, past memories and even their deepest secrets, partners with a genius detective Cheon Je-in to investigate a murder case.",
+    "background": "https://image.tmdb.org/t/p/w1280/wDv2wz2FAyBK66lnKRHihhlT79c.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "5.7"
   }
 ]
