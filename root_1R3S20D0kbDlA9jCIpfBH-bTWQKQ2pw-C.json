@@ -5118,5 +5118,15 @@
     "background": null,
     "released": "2011-01-01",
     "imdbRating": "4.0"
+  },
+  {
+    "id": "gdrive-folder:1NSjuf0QH-F3J3tZ0OuNz2kK_pkdmesg6",
+    "type": "movie",
+    "name": "Itaewon Class",
+    "poster": "https://image.tmdb.org/t/p/w500/qg7q0piY0fTt2enlIRHwKKRwNjS.jpg",
+    "description": "In a colorful Seoul neighborhood, an ex-con and his friends fight a mighty foe to make their ambitious dreams for their street bar a reality.",
+    "background": "https://image.tmdb.org/t/p/w1280/rtYQCa2NzX8RspbOmwfAla6BemO.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "8.4"
   }
 ]
