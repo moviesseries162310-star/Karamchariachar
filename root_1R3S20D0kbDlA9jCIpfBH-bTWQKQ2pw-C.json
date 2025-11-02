@@ -2728,5 +2728,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ra2t2Q9n9V90e4t0ND3JBnU0mPy.jpg",
     "released": "2022-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:1FLktQPE6ji4OweiaW7VtGWol65-GsAjG",
+    "type": "movie",
+    "name": "XX",
+    "poster": "https://image.tmdb.org/t/p/w500/uVx71y4HO32Owv5BiXw2BO0on8.jpg",
+    "description": "Yoon Na Na is a well-regarded bartender at XX bar. She takes pride in her work and position as the head bartender. She involves herself in other parts of XX like selecting menu items or setup of the interior. Her dream is to own XX bar. One day, the new owner of XX appears. She is Lee Roo Mi. The two women were best friends 5 years ago, but something happened between them. Yoon Na Na became upset at Lee Roo Mi. Now, Lee Roo Mi tries to make up with Yoon Na Na, but it's not easy.",
+    "background": "https://image.tmdb.org/t/p/w1280/f22cGKWBbO4kbEjv6GAv2Nb7U0V.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.4"
   }
 ]
