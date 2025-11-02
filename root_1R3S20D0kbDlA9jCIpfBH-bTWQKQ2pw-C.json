@@ -1248,5 +1248,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9bp9cVuqmZUAVfTpCxiPIpC5ACS.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive-folder:1IZggbiWWFG1TBPv1Apdf3GEta4-FK0IF",
+    "type": "movie",
+    "name": "Douluo Continent",
+    "poster": "https://image.tmdb.org/t/p/w500/PFPD5SZxauigsTiYDzarHUQoEj.jpg",
+    "description": "It tells the story of Tang San who overcomes many difficulties to protect his loved ones, bring honor to his sect, help his country and become the strongest and bravest soul master.",
+    "background": "https://image.tmdb.org/t/p/w1280/6z2Pw8NO30UW25E5N5gellf7NhI.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.4"
   }
 ]
