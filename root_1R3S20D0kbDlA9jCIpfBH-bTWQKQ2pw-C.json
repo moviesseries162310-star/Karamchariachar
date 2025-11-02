@@ -2548,5 +2548,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sZvkElBCWiYNpVk3PsFlW64xkBh.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.1"
+  },
+  {
+    "id": "gdrive-folder:1-cHFsn2qSMb6WCG49gRjzZgRUeTyRz9I",
+    "type": "movie",
+    "name": "Weightlifting Fairy Kim Bok-joo",
+    "poster": "https://image.tmdb.org/t/p/w500/oARcy8kubYekRqii04obOlvw442.jpg",
+    "description": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
+    "background": "https://image.tmdb.org/t/p/w1280/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "8.5"
   }
 ]
