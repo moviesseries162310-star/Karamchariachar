@@ -778,5 +778,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
     "released": "2022-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:1pW9VUmlbRXgsNJFglFXAY4dNtcc1q2wv",
+    "type": "movie",
+    "name": "A Robot in the Orange Orchard",
+    "poster": "https://image.tmdb.org/t/p/w500/xYezzlasiiwnXR5fgYvDiEgt0b1.jpg",
+    "description": "As the chairman of a successful technology company, Lu Kun often finds himself in large group settings. While he has no problem addressing any number of people, he has incredible difficulty with any sort of direct, physical contact. Suffering from a strange allergy which is only triggered by direct skin-to-skin contact, something as simple as a handshake could prove deadly. Without the ability to directly come into contact with others, Lu Kun is intrigued when he learns a doctor by the name of Fu Yang has created an incredibly lifelike robot companion dubbed Friday.",
+    "background": "https://image.tmdb.org/t/p/w1280/73ibsHE4f6ynQUOh6frLGmYtTZI.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "5.2"
   }
 ]
