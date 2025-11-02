@@ -4828,5 +4828,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2AJO9HfciYuCGihAiRX1Z0Qn4JN.jpg",
     "released": "2020-01-01",
     "imdbRating": "10.0"
+  },
+  {
+    "id": "gdrive-folder:1t-grEhJhsa4yA44D8oqaUECNSMxRr7k_",
+    "type": "movie",
+    "name": "When the Weather Is Fine",
+    "poster": "https://image.tmdb.org/t/p/w500/h3FeWqdslmfD3d2wffFELjMcjQZ.jpg",
+    "description": "Drained from her life in the city, a young cellist moves to a quiet small town, where she encounters an old friend who helps her heal and remake herself.",
+    "background": "https://image.tmdb.org/t/p/w1280/6duvyxTYkDRGCzvTvXMwnojlXot.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.3"
   }
 ]
