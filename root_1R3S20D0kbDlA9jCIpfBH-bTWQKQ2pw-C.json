@@ -518,5 +518,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/y5ZBx0K7Lb9ZUcjahohrjUUK8eD.jpg",
     "released": "2010-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive-folder:1o-28LC4lIOz_jRP4gM1SAT5ykdE-b8yj",
+    "type": "movie",
+    "name": "Embracing the Stars Together",
+    "poster": "https://image.tmdb.org/t/p/w500/lWeuvLwyH6hGzKXFxwRf66bQMeO.jpg",
+    "description": "Bu Hanlu is a high school girl who thinks her sister is abducted by aliens. She accidentally encounters Lin Qianyu, a handsome school bully, and they form a rough relationship. Eventually, the astronomy club attendees become a group of close friends and together inspire one another to realize their dreams and discover the real truth.",
+    "background": "https://image.tmdb.org/t/p/w1280/kFP3fLquvC0b5UcX2TBOV1mSCnJ.jpg",
+    "released": "2024-01-01",
+    "imdbRating": null
   }
 ]
