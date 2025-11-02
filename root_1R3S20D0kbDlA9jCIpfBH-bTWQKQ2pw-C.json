@@ -1148,5 +1148,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2ehouijnUlNcTG0cfjZkf13CAkI.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive-folder:1LEVxNu2-VHzj2C-XztKqRitnk87ZvjOT",
+    "type": "movie",
+    "name": "Gaus Electronics",
+    "poster": "https://image.tmdb.org/t/p/w500/gKPLyIu0TQo3tkV9cgl9mT5GuC7.jpg",
+    "description": "The series is about the office workers of Marketing Team 3 at the home appliance headquarters of Gaus Electronics—a multinational company. It highlights the highs and lows of corporate life, and love and friendship between the employees.",
+    "background": "https://image.tmdb.org/t/p/w1280/vEq9CRC5NvNCD7XqLih1j0ZcsUx.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.4"
   }
 ]
