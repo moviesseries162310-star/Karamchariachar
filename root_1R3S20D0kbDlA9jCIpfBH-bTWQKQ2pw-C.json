@@ -188,5 +188,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1i6tgGfRu2oFUlz_FkKX-RhsQx2H-lICT",
+    "type": "movie",
+    "name": "Twinkling Watermelon",
+    "poster": "https://image.tmdb.org/t/p/w500/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+    "description": "A CODA (child of deaf adult) student born with a gift for music crash lands at an unfamiliar place after time traveling through a suspicious music shop. There, he forms the band Watermelon Sugar with other mysterious youths.",
+    "background": "https://image.tmdb.org/t/p/w1280/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.8"
   }
 ]
