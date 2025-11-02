@@ -848,5 +848,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/drqoDVjUwMl7eIULG6h7EtCpCkc.jpg",
     "released": "2015-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive-folder:18tQRoIFtjUhyNsuTDuo3vrpft2BnSpy4",
+    "type": "movie",
+    "name": "Melo Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/iEVOYk8eoMdCLFrNXtRSyqVM20c.jpg",
+    "description": "A movie buff falls for an aspiring director, igniting a romance that fizzles out too soon. When their paths cross again, can love find its way back?",
+    "background": "https://image.tmdb.org/t/p/w1280/9QjIFAVFN7Pe4MbF2O7oHvLkFsI.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.1"
   }
 ]
