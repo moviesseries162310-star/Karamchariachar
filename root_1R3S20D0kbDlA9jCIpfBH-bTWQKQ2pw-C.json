@@ -618,5 +618,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7MObAC55fQQfD2g8sySIVIEYqHk.jpg",
     "released": "2023-01-01",
     "imdbRating": "9.0"
+  },
+  {
+    "id": "gdrive-folder:1NAz73wIDIQFP6g5nlIQYWm8PpcRbIpAf",
+    "type": "movie",
+    "name": "Dear Hongrang",
+    "poster": "https://image.tmdb.org/t/p/w500/mWGil4jL1jaCoZkZuaNThh0aoVC.jpg",
+    "description": "When a long-missing heir returns with lost memories, love and suspicion entwine. Is he truly Hongrang, or a stranger disturbing hearts and family ties?",
+    "background": "https://image.tmdb.org/t/p/w1280/mrofWp3zypeH2Et5YuvwfMFe0ZK.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.3"
   }
 ]
