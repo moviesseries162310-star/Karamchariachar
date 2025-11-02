@@ -808,5 +808,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xnWC76eszapgnm7NMaL7cLeaCNt.jpg",
     "released": "2022-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive-folder:1i2fMaG7em-L3q9xhVlU8trn9LlSgBVIx",
+    "type": "movie",
+    "name": "When Life Gives You Tangerines",
+    "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+    "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "background": "https://image.tmdb.org/t/p/w1280/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "8.8"
   }
 ]
