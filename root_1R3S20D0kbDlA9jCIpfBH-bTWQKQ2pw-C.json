@@ -2008,5 +2008,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bZU8VzfWvcgt696BVBfGImY3cl8.jpg",
     "released": "2020-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1lLWhsPs-k4efSaJq9FU_7e17WWZb6L6q",
+    "type": "movie",
+    "name": "Method",
+    "poster": "https://image.tmdb.org/t/p/w500/mlgSXHwOpKRAvdtYysyHLWBIXaa.jpg",
+    "description": "After graduation our main character Yesenia dreams about work- ing with Rodion Meglin. He is a mysterious, secretive man, a lone investigator with little known about his methods. When Yesenia turns into his trainee she begins to realize that the essence of his method is that Meglin himself – that of a maniac. He feels them instinctively. He is allowed to eliminate some of them, look after others and save their lives. Our heroine who was never meant to work alone will go alone, facing the most horrible crimes of the last decade.",
+    "background": "https://image.tmdb.org/t/p/w1280/mRyNHvnGoNihSkdBpF3lC9aRxu9.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "7.0"
   }
 ]
