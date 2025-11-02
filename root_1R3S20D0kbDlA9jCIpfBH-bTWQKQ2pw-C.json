@@ -1218,5 +1218,15 @@
     "background": null,
     "released": "2020-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:16NhaziyRQUarBjGSoBdHzuorEl_pWPFq",
+    "type": "movie",
+    "name": "Like a Dragon: Yakuza",
+    "poster": "https://image.tmdb.org/t/p/w500/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg",
+    "description": "Set in the fictional town of Kamurocho, the story unfolds across two intersecting timelines—1995 and 2005. In 1995, four friends eager to escape their restrictive lives in an orphanage dive into the yakuza-controlled underworld of 1995 Kamurocho. Meanwhile, in 2005, their friendship is deteriorated, as tensions between the Tojo Clan and the Omi Alliance are at a boiling point.",
+    "background": "https://image.tmdb.org/t/p/w1280/39DH8VaGI5E0gsu8uLJfPKNGvvk.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.0"
   }
 ]
