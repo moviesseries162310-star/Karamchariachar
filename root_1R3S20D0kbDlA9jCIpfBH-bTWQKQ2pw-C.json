@@ -558,5 +558,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xYznIscGy9ef64bxOky8oBGqVc5.jpg",
     "released": "2021-01-01",
     "imdbRating": "3.0"
+  },
+  {
+    "id": "gdrive-folder:1MuLL9xag7mejrnIEubQivFW_mA2XCWX2",
+    "type": "movie",
+    "name": "Good Boy",
+    "poster": "https://image.tmdb.org/t/p/w500/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg",
+    "description": "After 11 years, the police revive their special recruitment for former national athletes. Once hailed as heroes, these world-class medalists now face harsh realities. Despite financial struggles, unexpected tragedies, and discrimination within the force, the athletes, each with their own story, reunite as a special task force to take on major crimes with the grit and skills they honed as athletes.",
+    "background": "https://image.tmdb.org/t/p/w1280/8l1BN0IIjHmRyW0oDfUfs3F6F4N.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "8.7"
   }
 ]
