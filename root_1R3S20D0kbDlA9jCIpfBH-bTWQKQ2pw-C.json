@@ -1518,5 +1518,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9B5dokfbUCJOIiRMPrk1nvFyqfx.jpg",
     "released": "2021-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1UnWFewPsk1fJupQ9AL-A1iJkdAPiF9xm",
+    "type": "movie",
+    "name": "L.U.C.A.: The Beginning",
+    "poster": "https://image.tmdb.org/t/p/w500/jcEikoCQsdKueYT20ekzhx6C6HY.jpg",
+    "description": "Ji-O has a special power and a secret, but he doesn't know who he really is. He is chased by mysterious figures, while he tries to find answers to numerous questions that surround him. Goo-Reum is a detective. When she decides on a course of action, she won't change no matter what. Her parents disappeared when she was only a young child. Goo-Reum chases after the truth behind her parents' disappearance. She meets Ji-O and her life changes.",
+    "background": "https://image.tmdb.org/t/p/w1280/mw0vgyrJ9nsOh6DuxYhy9X7uzeL.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.2"
   }
 ]
