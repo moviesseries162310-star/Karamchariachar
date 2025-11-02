@@ -1878,5 +1878,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/o1jtmgjkOBntg44Te1a98nKeNz9.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.1"
+  },
+  {
+    "id": "gdrive-folder:1Z8pl6L2MR0mGeLIfce96hp8aFumPmU8B",
+    "type": "movie",
+    "name": "Trotsky",
+    "poster": "https://image.tmdb.org/t/p/w500/mtLfhHJRFlRyrX5AkfVALsNOj9u.jpg",
+    "description": "The life pages of a man who changed the world but paid back everything he had. Leon Trotsky is being interviewed in Mexico city of the year 1940 by Canadian journalist Frank Jackson. During eight days they have eight interview sessions revealing the true face of Comrade Trotsky.",
+    "background": "https://image.tmdb.org/t/p/w1280/w7NdD1PgYgApL6xpS0yqJVyumyh.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "5.9"
   }
 ]
