@@ -2678,5 +2678,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.2"
+  },
+  {
+    "id": "gdrive-folder:1JqIQC3j58K6lANnm4PHGkf0WJDK163ia",
+    "type": "movie",
+    "name": "The Scholar Who Walks the Night",
+    "poster": "https://image.tmdb.org/t/p/w500/115598hfMYGkUtPwA5p95gntKaC.jpg",
+    "description": "When Jo Yang Sun is driven out of house and home after her father is framed for a crime, she is forced to crossdress in order to make ends meet as a bookseller, where she meets Kim Sung Yeol, a handsome, but mysterious scholar who is actually a vampire. Meanwhile, an evil presence at the royal palace stops at nothing to keep the Crown Prince from claiming his rightful throne.",
+    "background": "https://image.tmdb.org/t/p/w1280/pHQgWT4tZVSwSpmhhWQ9wUDR9vW.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "6.5"
   }
 ]
