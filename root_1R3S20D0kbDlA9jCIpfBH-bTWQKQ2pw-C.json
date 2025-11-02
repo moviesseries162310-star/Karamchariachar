@@ -4688,5 +4688,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/80z5nrNrDsj0JKyd1nfdyt7hR9k.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive-folder:1LsCgWI0SoA317jrqNTAHy_1vEuDUdllm",
+    "type": "movie",
+    "name": "Artificial City",
+    "poster": "https://image.tmdb.org/t/p/w500/wB5r70L0gf2XiTD8r5vy0YDtW7o.jpg",
+    "description": "A mystery psychological thriller drama that depicts characters with various desires and different psychology, and their tangled relationships against the backdrop of a society that conceals their dark sides and is maintained through someone's sacrifice.",
+    "background": "https://image.tmdb.org/t/p/w1280/QEDSyaMVHugGdpwvF0ckTQyzL0.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.3"
   }
 ]
