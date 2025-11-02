@@ -1808,5 +1808,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive-folder:1dA2Q_MczJk4Fp7iA8O7d1oNI1-u1dFu6",
+    "type": "movie",
+    "name": "Queen of Tears",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "description": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "background": "https://image.tmdb.org/t/p/w1280/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "8.4"
   }
 ]
