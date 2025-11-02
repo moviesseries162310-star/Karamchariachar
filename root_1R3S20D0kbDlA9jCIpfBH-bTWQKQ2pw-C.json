@@ -3178,5 +3178,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qVNACrSwu8RCgf9loLKfTv0mDeq.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:1Bto8sM5XGzCFcbN-CHJl-hvu1fMM_29e",
+    "type": "movie",
+    "name": "Novoland: Eagle Flag",
+    "poster": "https://image.tmdb.org/t/p/w500/eWXHVLn0WL9d5duvP5Az7bALWxt.jpg",
+    "description": "Lü Guichen is the heir of the nomadic Qingyang tribe, and is sent to the Eastern Land as hostage. He meets Ji Ye, an unfavoured illegitimate son who is training to become a warrior, and Yu Ran, the princess of the Winged tribe. The three become close friends, and the boys’ feelings for Yu Ran soon turn romantic.\n\nAt the same time, powerful warlord Ying Wuyi has been maintaining a firm control over the Emperor, giving him unprecedented power over the nobles. Lü Guichen, Ji Ye and Yu Ran decide to join the decisive battle against Ying Wuyi at Shangyang Pass, but unbeknownst to them, an even darker conspiracy is yet to unfold.",
+    "background": "https://image.tmdb.org/t/p/w1280/5aM7n4DxRroToA2J465DslCaZr4.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.3"
   }
 ]
