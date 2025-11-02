@@ -1078,5 +1078,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5TKhsjjTw8gcTEGTHH6NZ15pU8.jpg",
     "released": "2022-01-01",
     "imdbRating": "4.5"
+  },
+  {
+    "id": "gdrive-folder:1GjWXLzMAQ0C_RQatyWv7-B6_aoTW9qSW",
+    "type": "movie",
+    "name": "Castle in the Time",
+    "poster": "https://image.tmdb.org/t/p/w500/pQcVWrNn19cNV226j2tLjBQgpih.jpg",
+    "description": "Xu Zhen, a bright and optimistic young woman, applies for a job at Jiang Ye Entertainment to help mend her parents' relationship. There, she meets Gu Chijun, an established actor, and begins to form a connection with him. As their relationship develops, Xu Zhen uncovers a troubling situation within the company and finds herself caught in the middle of a complex situation.",
+    "background": "https://image.tmdb.org/t/p/w1280/6FDNw2EvM5FK0tjB1VSC9Cq7rPF.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "5.0"
   }
 ]
