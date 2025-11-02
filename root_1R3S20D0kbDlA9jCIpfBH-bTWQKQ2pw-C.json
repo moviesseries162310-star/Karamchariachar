@@ -2268,5 +2268,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yZomKXhfVt7EiyJT1INsDAnDo7O.jpg",
     "released": "2014-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:17gMEiWMA1zK6u3rOumfGkEgEJhnYSxlL",
+    "type": "movie",
+    "name": "Castaway Diva",
+    "poster": "https://image.tmdb.org/t/p/w500/oYOxdgfPogMoXPizBjKcZx7f9k2.jpg",
+    "description": "Fifteen years after being stranded on a remote island, an aspiring singer reenters society — stopping at nothing to pursue her dream of becoming a diva.",
+    "background": "https://image.tmdb.org/t/p/w1280/6b5AgwBJ9RQKzXh0B7kG0wWq5P9.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.0"
   }
 ]
