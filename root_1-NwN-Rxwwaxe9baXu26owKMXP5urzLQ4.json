@@ -3120,5 +3120,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
     "description": "A team of teenagers with attitude are recruited to save Angel Grove from the evil witch, Rita Repulsa, and later, Lord Zedd, Emperor of all he sees, and their horde of monsters.",
     "background": "https://image.tmdb.org/t/p/w1280/i01wnWz0Z3rMATqbkAVLHEaGbNP.jpg"
+  },
+  {
+    "id": "gdrive-folder:1j7fb_VUFOLdstUAwnZL_7BAe9HGIutC_",
+    "type": "movie",
+    "name": "The Summer Hikaru Died",
+    "poster": "https://image.tmdb.org/t/p/w500/x0wiTO87UMiVCUe24nKaHlp7AIc.jpg",
+    "description": "Six months ago, Hikaru vanished for a week. Now, as his best friend Yoshiki senses something amiss and confronts him, the harrowing truth emerges.",
+    "background": "https://image.tmdb.org/t/p/w1280/dd9AaCFF8QspyepM8pcYixefZOh.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "8.6"
   }
 ]
