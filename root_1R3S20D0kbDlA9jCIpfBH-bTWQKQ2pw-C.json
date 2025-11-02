@@ -1398,5 +1398,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zP6wgPUhL83uDgG3YkUTGjd0m2O.jpg",
     "released": "2021-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1-fOXVzrDvz6W8B64Sc46M8w_42VbQzeY",
+    "type": "movie",
+    "name": "The Ghost Detective",
+    "poster": "https://image.tmdb.org/t/p/w500/bbGOIFF4QNyTDygDBqMQSc76Anr.jpg",
+    "description": "Da Il, a ghost detective, meets a mysterious woman named Woo Hye and gets drawn into a strange case.",
+    "background": "https://image.tmdb.org/t/p/w1280/pngsLRvYWzz2Hjy0Fhz4gcwgQCM.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.6"
   }
 ]
