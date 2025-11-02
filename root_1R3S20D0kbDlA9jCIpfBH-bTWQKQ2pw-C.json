@@ -2418,5 +2418,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bhCUn6Z509qTV4eBJZtjtQ4ennL.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.1"
+  },
+  {
+    "id": "gdrive-folder:19MufFKzHfi2dbVsU9xGrad2MSpsTCfzh",
+    "type": "movie",
+    "name": "Love in Shanghai",
+    "poster": "https://image.tmdb.org/t/p/w500/zy4EPQMk2m9huGlOA4aCTPnMHCa.jpg",
+    "description": "Wen Jia and Dong Yang meet in Shanghai and navigate the challenges of work, relationships, and personal growth in a city full of temptations, all while searching for true happiness and purpose.",
+    "background": "https://image.tmdb.org/t/p/w1280/bnv7MUFzVlyeUq9p0VooT09VLD2.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.3"
   }
 ]
