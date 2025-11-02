@@ -1098,5 +1098,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/79DCyZhUcFsiGfyjNlFH1lS1t4c.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive-folder:1-jMbEY1t-jjH0mNLyoLQwUcQLGZJqPYX",
+    "type": "movie",
+    "name": "Rope a Dope",
+    "poster": "https://image.tmdb.org/t/p/w500/48yZCDVUb6zgNADYCbxY0tZDmm5.jpg",
+    "description": "Ouyang Jun, a Hong Kong professional boxer, has set an unprecedented record in Hong Kong professional boxing, and his popularity has never been better. Personality is not good at chatting, stubborn hard work, never give up easily. A few years ago, because his brother Ouyang was running away from home to avoid debts, Jun took refuge in his brother's friend Lu Jian in the King Boxing boxing gym. Since then, the boxing gym has become Ouyang Jun's second home. In the boxing gym, he met his friend trainer Li Chengdong and Jiang Xiuxian, a girl from the neighborhood laundry. Ouyang Jun made up his mind to become the Asian boxing champion due to the teaching and sudden retirement of the big brother Yuan Tianjiu in the boxing gym, hoping to bring glory to the boxing gym.",
+    "background": "https://image.tmdb.org/t/p/w1280/imfW4Kwg3pynRu1djbypXjAteZ9.jpg",
+    "released": "2022-01-01",
+    "imdbRating": null
   }
 ]
