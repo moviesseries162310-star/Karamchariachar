@@ -2108,5 +2108,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uph4yYIPkryhvZMfaxXKKHN3G5g.jpg",
     "released": "2022-01-01",
     "imdbRating": "8.3"
+  },
+  {
+    "id": "gdrive-folder:1txwTRVyh15XZ1_eO-MZp8NeSn_LwJH-9",
+    "type": "movie",
+    "name": "Bring It On, Ghost",
+    "poster": "https://image.tmdb.org/t/p/w500/zb92aCrjRAFxsgn9VUXXhiso6h8.jpg",
+    "description": "Hyun-Ji studied for her 19 years before she died in an accident. She is now a ghost and has wandered around the world for several years. Hyun-Ji then meets exorcist Park Bong-Pal. Hyun-Ji and Bong-Pal listens to various stories from ghosts and sends them to the otherworld.",
+    "background": "https://image.tmdb.org/t/p/w1280/2gYZ0jQ7JKIukQSALPUXU7TZCbb.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "7.9"
   }
 ]
