@@ -538,5 +538,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sAcpMDoLp4mpOOzvoA23HeOV07k.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive-folder:11EBfHCr5IDunUARuyADkOeHU0yCIVomI",
+    "type": "movie",
+    "name": "I Can See You Shine",
+    "poster": "https://image.tmdb.org/t/p/w500/gSXvk4u7l60lgRVlbqf9Xir1G6b.jpg",
+    "description": "Two high school girls, Yang and Tung, are besties despite their opposite personalities and different backgrounds. Their friendship is put through the wringer as they navigate problematic teen quirks, unrequited love, family complications, and dysfunctional high school life. If being a teenager wasn’t hard enough, one has to deal with the cultural minefield of being a second-generation immigrant.",
+    "background": "https://image.tmdb.org/t/p/w1280/qFhdWCb8OmpDPrqRKT6GSgaePKK.jpg",
+    "released": "2024-01-01",
+    "imdbRating": null
   }
 ]
