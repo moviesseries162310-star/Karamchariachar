@@ -2128,5 +2128,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/crA00CIs9jFpn2BkhrBTtjF1afG.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:1GvVSrLCRqR2F_60xahsBcP_Z_9yjrf6G",
+    "type": "movie",
+    "name": "The Bequeathed",
+    "poster": "https://image.tmdb.org/t/p/w500/iExLDuclzOp06ro9929UTDQRDm1.jpg",
+    "description": "After the death of an unknown uncle, a woman inherits a burial ground and finds herself in the center of a string of murders and dark secrets.",
+    "background": "https://image.tmdb.org/t/p/w1280/kJeXTvZGoxS1XQQStD6uDBdsskY.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.0"
   }
 ]
