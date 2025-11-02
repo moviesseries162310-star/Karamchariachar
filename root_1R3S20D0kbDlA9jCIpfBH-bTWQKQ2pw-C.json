@@ -1568,5 +1568,15 @@
     "background": null,
     "released": "2006-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1Hda_pHmKCDET--t7uXu0HZo4sNzJcj6Q",
+    "type": "movie",
+    "name": "Miss Lucky Go!",
+    "poster": "https://image.tmdb.org/t/p/w500/wS8VgxuuEEPJ8iw4PSatAdHtUrE.jpg",
+    "description": "Aspiring figurine designer Chen Miran enrolls in university for a fresh start but ends up in the same class as her ex, Zhong Weiqiong, who once dumped her coldly. Determined to win her back, Zhong schemes to reignite their love, unaware their past breakup was a misunderstanding. As old feelings resurface and they reconcile, a surprising rival appears, threatening to unravel their newfound happiness.",
+    "background": "https://image.tmdb.org/t/p/w1280/odkwwprXZki88f05mXVOUTDaNO6.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.8"
   }
 ]
