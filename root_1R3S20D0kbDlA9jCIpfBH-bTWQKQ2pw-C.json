@@ -758,5 +758,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tSeyn9VqrAKuMytgDCXY9iMGXa8.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive-folder:19bIbmAxz2IxAC2Rlecnlw1iDogo7quyd",
+    "type": "movie",
+    "name": "Weak Hero",
+    "poster": "https://image.tmdb.org/t/p/w500/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
+    "description": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+    "background": "https://image.tmdb.org/t/p/w1280/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "8.6"
   }
 ]
