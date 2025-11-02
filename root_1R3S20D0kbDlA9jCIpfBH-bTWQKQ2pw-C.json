@@ -738,5 +738,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pF5dCwY7GcAjyQ5w5CrtX8pKLrM.jpg",
     "released": "2004-01-01",
     "imdbRating": "5.4"
+  },
+  {
+    "id": "gdrive-folder:12IU1vVUopL_PrjLmnptdViUT77eYA1_t",
+    "type": "movie",
+    "name": "Skip a Beat",
+    "poster": "https://image.tmdb.org/t/p/w500/oBjQQ8YWouhZ03iAr0s7kFm5OQO.jpg",
+    "description": "Qian Jing is a strong and independent woman, who was the only one able to take the position of personal assistant for the demanding CEO, Gu Yi. Soon, their relationship becomes not only professional but also romantic. The problem, however, is that nobody knows the true face of Gu Yi, who after a car accident, from being tender and understanding for a moment, can switch in a few seconds to being cruel and obsessive, especially towards Qian Jing. Soon, Qian Jing not only has to deal with her complicated feelings for her boss, but also her past, especially since her motives for becoming Gu Yi's assistant in the first place are not as noble as they might seem.",
+    "background": "https://image.tmdb.org/t/p/w1280/l72DDinwfNq9eHMNjbRyqI0mVlP.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.7"
   }
 ]
