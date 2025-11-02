@@ -1598,5 +1598,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
     "released": "2021-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:13Rl8ncN5dOlVYOrdYAX8ssVhQ3RS0ee6",
+    "type": "movie",
+    "name": "The Whirlwind",
+    "poster": "https://image.tmdb.org/t/p/w500/dMNPN1cxX0CuL9POyT5xoiTk10h.jpg",
+    "description": "A whirlwind power clash between the prime minister and deputy prime minister unravels the day the president suffers an assassination attempt.",
+    "background": "https://image.tmdb.org/t/p/w1280/tYEglssQT3HMngKm5bQA5mw4n0u.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.8"
   }
 ]
