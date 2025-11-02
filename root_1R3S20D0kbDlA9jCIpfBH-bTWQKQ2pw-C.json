@@ -998,5 +998,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/a32io4EZZx9LfOYbOsPo9hgvD5x.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive-folder:18KIpXf6ArBJJD-oYFR1IQPah1WrhFrET",
+    "type": "movie",
+    "name": "My Princess",
+    "poster": "https://image.tmdb.org/t/p/w500/le1U5CbfKkOpuk4IIL0jREydXRf.jpg",
+    "description": "Seol is an ordinary college student who was adopted but is living a happy life on her own. Working part time, she happens to have an unpleasant first encounter with Hae Young, a diplomat and the only heir of the biggest conglomerate in Korea. One day, he hears shocking news from his grandfather. The Blue House announces that they will carry out a vote on rebuilding the royal house, and his grandfather asks him to find someone urgently, who later turns out to be Seol. Against his grandfather’s wishes to donate their family’s wealth to the country, Hae Young tries to stop Seol, but she ends up moving into the palace to become a princess of the royal house.",
+    "background": "https://image.tmdb.org/t/p/w1280/cHc2b05x8mkE6aSOpPTNt6cyrpS.jpg",
+    "released": "2011-01-01",
+    "imdbRating": "7.3"
   }
 ]
