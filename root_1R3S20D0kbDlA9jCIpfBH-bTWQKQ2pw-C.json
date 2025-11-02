@@ -3918,5 +3918,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tI276rshUxKaYx5PvOzg6TG3JRz.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive-folder:11x4YxSXrVDla1XvLRuuZ812tlZ-cWboh",
+    "type": "movie",
+    "name": "Love is Sweet",
+    "poster": "https://image.tmdb.org/t/p/w500/k52mSqO1sXLhuRjNoSMsj1qJ7kD.jpg",
+    "description": "Jiang Jun, a driven woman with a background in economics and psychology, leaves philanthropy to fulfill her late father’s wish by joining a top investment firm. There, she faces intense competition and reunites with her childhood friend-turned-rival, Yuan Shuai. With her intelligence and resilience, she navigates workplace challenges, uncovering hidden schemes while finding success in both her career and love.",
+    "background": "https://image.tmdb.org/t/p/w1280/kxfuHytN7j4FV6bpbPvw0CbS1eU.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.8"
   }
 ]
