@@ -4588,5 +4588,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6C5m9nzCTB0ijS9PjYus0eTYpct.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive-folder:15_ZJvaYSSzinEE5JTQIZ9vJtfRk0siYr",
+    "type": "movie",
+    "name": "The Fabulous",
+    "poster": "https://image.tmdb.org/t/p/w500/1LnPNXQ8upwUT1dYX2ZopQXjmt8.jpg",
+    "description": "Four best friends chase their dreams in the competitive world of fashion while juggling demanding jobs, romantic dilemmas and wild nights on the town.",
+    "background": "https://image.tmdb.org/t/p/w1280/r19gAamhuLoXBktGnh0KsnNHycN.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.8"
   }
 ]
