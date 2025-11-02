@@ -3638,5 +3638,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/s0ZXX7Zr2oX4VDUMHRHXjkXeDeN.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.7"
+  },
+  {
+    "id": "gdrive-folder:1xvXvwl49VVpaKjvBr9piBbgeq3JIVZLh",
+    "type": "movie",
+    "name": "Queen Mantis",
+    "poster": "https://image.tmdb.org/t/p/w500/WWGI3LOzufVJavMdy6BAIInMPY.jpg",
+    "description": "Cha Su-yeol, a police officer who has long despised his mother, the notorious 'Mantis' serial killer, must reluctantly turn to her for help when a copycat killer emerges.",
+    "background": "https://image.tmdb.org/t/p/w1280/4A5TEvk99fCg8WSgImYJ6dqqe8Y.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.3"
   }
 ]
