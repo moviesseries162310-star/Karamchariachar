@@ -2198,5 +2198,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/47bsaGWuKKnJnGz3nJIZDTpvhuV.jpg",
     "released": "2016-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive-folder:1udOe5ydD_xqD7zjC6N9X9ZO5IXZhbGj7",
+    "type": "movie",
+    "name": "Hi Venus",
+    "poster": "https://image.tmdb.org/t/p/w500/kU3HwhFCKgCDOD505R9zNvU4vc8.jpg",
+    "description": "Ye Shilan, a pediatrician at Taoyuan Village Clinic, starts off on the wrong foot with the new director Lu Zhaoxi due to a misunderstanding. By chance, she becomes his assistant. In solving many problems around running the place and patient treatment, the two fall in love. As they grow together, they come to have a deeper understanding for the mission of doctors to save lives and heal the wounded.",
+    "background": "https://image.tmdb.org/t/p/w1280/b4A7MvvFYsIuqtOunBFSSrnw69y.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.6"
   }
 ]
