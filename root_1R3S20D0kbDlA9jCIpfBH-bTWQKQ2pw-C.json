@@ -2318,5 +2318,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/q250p4mUBugX7HuhNyXsOSdgncU.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive-folder:1lFOl8sBEUPApnrlZXAdvLcz_6xjjEqrU",
+    "type": "movie",
+    "name": "Borg Mom",
+    "poster": "https://image.tmdb.org/t/p/w500/q4YahNUyCcHL9HzvY4lbtsyAmbo.jpg",
+    "description": "Choi Go-Bong works in the field of artificial intelligence. His wife died 7 years ago after giving birth to their son Choi Yool. Choi Go-Bong then developed a borg mom using AI and robotics. Choi Yool enters a prestigious kindergarten and the borg mom meets the other mothers there. The mothers group is full of vanity and pretentiousness.",
+    "background": "https://image.tmdb.org/t/p/w1280/eEFEjZ1QjPRc4vlkWgcUWAwZzls.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "5.8"
   }
 ]
