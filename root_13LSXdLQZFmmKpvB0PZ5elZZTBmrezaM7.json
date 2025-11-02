@@ -3235,5 +3235,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/uKE9BxgtT5g2pE3ZKC7MnzsAbTZ.jpg",
     "description": "A young fighter named Kham must go to Australia to retrieve his stolen elephant. With the help of a Thai-born Australian detective, Kham must take on all comers, including a gang led by an evil woman and her two deadly bodyguards.",
     "background": "https://image.tmdb.org/t/p/w1280/b2NxliGN77rdu78HQv5peZBmkw4.jpg"
+  },
+  {
+    "id": "gdrive-folder:1aY3enJLlDK3mu0gTcz9pLBxS4Ej-8e8O",
+    "type": "movie",
+    "name": "The Asset",
+    "poster": "https://image.tmdb.org/t/p/w500/ugreFeu0Ng7wnfX6ZRNoQa2sbxX.jpg",
+    "description": "A young agent goes undercover to befriend a drug smuggler's wife. But the closer she gets to her target, the more complicated her mission becomes.",
+    "background": "https://image.tmdb.org/t/p/w1280/n9YnfHabjCNwCHUXfT6DPxzFa3e.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.6"
   }
 ]
