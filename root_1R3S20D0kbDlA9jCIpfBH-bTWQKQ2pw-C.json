@@ -4178,5 +4178,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8GdL6o4zzSAJmHy5ZwWwTDLwXS1.jpg",
     "released": "2020-01-01",
     "imdbRating": "8.6"
+  },
+  {
+    "id": "gdrive-folder:1NwEMJVSeWwttptpsd6F-m4RHtI64bpOj",
+    "type": "movie",
+    "name": "Lover or Stranger",
+    "poster": "https://image.tmdb.org/t/p/w500/ovF5fR2tm9MTlGeZvLXJTmfVGYg.jpg",
+    "description": "After an avalanche, a young violinist loses her memory. Facing her mysterious entrepreneur fiancee and their upcoming wedding, she must find herself again amidst the confusion and secrets.",
+    "background": "https://image.tmdb.org/t/p/w1280/7gp541rXzYTnWLcXGh3ZJhcY17Q.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "4.5"
   }
 ]
