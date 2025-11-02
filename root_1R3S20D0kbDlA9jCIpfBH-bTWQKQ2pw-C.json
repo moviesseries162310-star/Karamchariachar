@@ -4308,5 +4308,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
     "released": "2016-01-01",
     "imdbRating": "8.6"
+  },
+  {
+    "id": "gdrive-folder:1YQYzqmo5XVjWWxrHMpwCMDQSH9PHM_tJ",
+    "type": "movie",
+    "name": "Queen of the Ring",
+    "poster": "https://image.tmdb.org/t/p/w500/3Fh0F9tlq1ly788RnZRPoreAhSY.jpg",
+    "description": "Nan Hee is an ugly girl and this has influenced her to become mean. One day, she receives a ring which holds a family secret. Se Gun is handsome, but he has a cold-blooded personality. Due to the magic of the ring, he declares Nan Hee as his ideal woman with a beautiful appearance.",
+    "background": "https://image.tmdb.org/t/p/w1280/vZ1tr92RynIM9D9hH7u8yF2gmpc.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "7.2"
   }
 ]
