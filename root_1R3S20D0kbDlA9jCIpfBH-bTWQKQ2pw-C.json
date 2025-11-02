@@ -3248,5 +3248,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/edZxEXpVvb3A7w2Tc7layhX8Frc.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1wvO_IcvkQHhGUeowSV9VxL778nfXvxV0",
+    "type": "movie",
+    "name": "Court Lady",
+    "poster": "https://image.tmdb.org/t/p/w500/9F5ICeZT12inPyTmhm0lcL6AbeF.jpg",
+    "description": "Sheng Chumu, once a shiftless young man, transforms his life after falling for Fu Rou, a diligent merchant's daughter. To win her heart, Chumu dedicates himself to studying and eventually decides to serve his country by leading a campaign against coastal pirates. Meanwhile, Fu Rou becomes a court-weaving official through a series of events, complicating their secret meetings. As she uncovers dark secrets and a dangerous plot, Fu Rou and Chumu must use their wits and skills to overcome their challenges together.",
+    "background": "https://image.tmdb.org/t/p/w1280/x4MMu9Cv2K22iuDHDDHLKgvLuVc.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.7"
   }
 ]
