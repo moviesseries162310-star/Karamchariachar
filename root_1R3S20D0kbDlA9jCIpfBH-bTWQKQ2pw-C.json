@@ -2208,5 +2208,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/b4A7MvvFYsIuqtOunBFSSrnw69y.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive-folder:19NkjwgRfnSr_SB3dbgoqfjeA1lY3oyVD",
+    "type": "movie",
+    "name": "My Lethal Man",
+    "poster": "https://image.tmdb.org/t/p/w500/ykKbuBoY3pf1lvjpfhWfrS1NTxY.jpg",
+    "description": "Due to an unexpected kidnapping case, Shen Manning crosses paths with Zhuang Xinyan. After Zhuang Xinyan's death, the powerful and mysterious Yan Xingcheng forces Shen Manning into a new life as his fiancée. Despite starting off as adversaries, they gradually come to trust and rely on one another as they face various challenges together. Along the way, they uncover the truth behind a long-unsolved case from 17 years ago.",
+    "background": "https://image.tmdb.org/t/p/w1280/zJUlCa6QsURENtLN4EWsHRESXsH.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "7.0"
   }
 ]
