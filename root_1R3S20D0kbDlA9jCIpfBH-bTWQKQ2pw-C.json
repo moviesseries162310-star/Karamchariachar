@@ -2468,5 +2468,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lMOSCDpjnkiExeqoYHHVcv9suhb.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive-folder:1MRv0ePWCBgb4qf2MQ8Dk73gWNRWlgZyO",
+    "type": "movie",
+    "name": "My Strange Hero",
+    "poster": "https://image.tmdb.org/t/p/w500/p8Uzpksp6TRKwyn6L6EtZd4fJcx.jpg",
+    "description": "When Kang Bok-Soo was a high school student, he was falsely accused of committing violence and kicked out of school. This was caused by his first love Son Soo-Jung and a male student Oh Se-Ho. Kang Bok-Soo is a now an adult, but his life has not gone smoothly. To get revenge on Son Soo-Jung and Oh Se-Ho, he returns to the same high school as a student. The environment at the school has changed and Kang Bok-Soo gets involved in unexpected cases.",
+    "background": "https://image.tmdb.org/t/p/w1280/mjMkTMbWxma8A2Z9OFhTbvetOLO.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.3"
   }
 ]
