@@ -78,5 +78,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive:1DTi_B9N2-ruqXx0GKgbrp0G0lLQD0PeR",
+    "type": "movie",
+    "name": "Fantastic Beasts: The Secrets of Dumbledore",
+    "poster": "https://image.tmdb.org/t/p/w500/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg",
+    "description": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+    "background": "https://image.tmdb.org/t/p/w1280/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.6"
   }
 ]
