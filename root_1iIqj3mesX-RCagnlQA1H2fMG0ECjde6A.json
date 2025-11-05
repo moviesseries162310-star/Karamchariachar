@@ -149,5 +149,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/v7olj5StoSFVsgkBhOihDaR56eJ.jpg",
     "description": "Kelly Quinn and her two BFF's, Darbie and Hannah, stumble upon her grandmother's mysterious cookbook in the attic and discover some far from ordinary recipes. When the Shut'em Up Shortcake silences Kelly's pesky little brother and the Healing Hazelnut Tart heals Darbie's ankle, the girls discover they have the power of magic. A single-camera live-action pilot based on the popular book.",
     "background": "https://image.tmdb.org/t/p/w1280/fPksNJggRWtEvgcaKccYMZEYrug.jpg"
+  },
+  {
+    "id": "gdrive-folder:1_HKhmQfkICFhLsdn0ZHWsqEs4CL5DKkz",
+    "type": "movie",
+    "name": "Just Alice",
+    "poster": "https://image.tmdb.org/t/p/w500/xV0dzVfaYgqWBnKVNWWyZk2YdrE.jpg",
+    "description": "Torn between two loves, Alicia secretly marries both a famous writer and a former priest. How long can she juggle love, lies and her double life?",
+    "background": "https://image.tmdb.org/t/p/w1280/7rLJEak2Zkut7luWFqZjC0TdwMV.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
   }
 ]
