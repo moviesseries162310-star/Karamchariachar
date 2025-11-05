@@ -636,5 +636,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/g6tIKGc3f1H5QMz1dcgCwADKpZ7.jpg",
     "description": "Lyra is an orphan who lives in a parallel universe in which science, theology and magic are entwined. Her search for a kidnapped friend uncovers a sinister plot involving stolen children and turns into a quest to understand a mysterious phenomenon called Dust. She is later joined on her journey by Will, a boy who possesses a knife that can cut windows between worlds. As she learns the truth about her parents and her prophesied destiny, the two young people are caught up in a war against celestial powers that ranges across many worlds.",
     "background": "https://image.tmdb.org/t/p/w1280/t8KjRqfOqNx14cHLwARjR08bjeb.jpg"
+  },
+  {
+    "id": "gdrive-folder:1O8ZMMGsLw5_NeJtfaFOwvs_vh4QQplcf",
+    "type": "movie",
+    "name": "Heweliusz",
+    "poster": "https://image.tmdb.org/t/p/w500/pEIQ3r0v3rPf6COA5hpXBHSZMFe.jpg",
+    "description": "Caught in a deadly storm, the ferry Heweliusz's crew and passengers battle for survival, as devastated families on land seek truth and justice.",
+    "background": "https://image.tmdb.org/t/p/w1280/uanBIz4myibV0ytiPgzCVDz1kNg.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
   }
 ]
