@@ -4690,5 +4690,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uO6PMeZBPpjyZKTGLSQbrDol9qr.jpg",
     "released": "2021-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1XPPT0DOn_phZooJwRCx6qkrQ_l7M3kcc",
+    "type": "movie",
+    "name": "Jujutsu Kaisen 0",
+    "poster": "https://image.tmdb.org/t/p/w500/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
+    "description": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+    "background": "https://image.tmdb.org/t/p/w1280/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "8.1"
   }
 ]
