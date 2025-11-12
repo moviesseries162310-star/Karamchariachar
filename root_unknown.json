@@ -128,5 +128,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/nNAzi5VX6Dr8i6tdqTZC63MzFkF.jpg",
     "released": "2023-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1EEdNPIbFTapiBszu-Q7fXnooDux3Y3vK",
+    "type": "movie",
+    "name": "Welcome to Demon School! Iruma-kun THE STAGE",
+    "poster": "https://image.tmdb.org/t/p/w500/eP2G3vlWtRpNhTGt5COCDMwcrHo.jpg",
+    "description": "The story of Mairimashita! Iruma-kun follows Iruma, a kind-hearted 14-year-old boy whose parents sell him to demons for their own selfish interests. However, the demon he is sold to has no grandson of his own, so he dotes on Iruma and sends him to demon school.",
+    "background": "https://image.tmdb.org/t/p/w1280/nNAzi5VX6Dr8i6tdqTZC63MzFkF.jpg",
+    "released": "2023-01-01",
+    "imdbRating": null
   }
 ]
