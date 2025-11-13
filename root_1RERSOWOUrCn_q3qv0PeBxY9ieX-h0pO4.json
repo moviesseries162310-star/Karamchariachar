@@ -2254,5 +2254,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lO2CqipALTHkRblLIRDKgtMgwxX.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:1QCIiH7qRGtDbSHRilOvxdWJ5ejmpelKc",
+    "type": "movie",
+    "name": "Had I Not Seen the Sun",
+    "poster": "https://image.tmdb.org/t/p/w500/gJYg8mPAzuqsuSqBYmYKv1qQpld.jpg",
+    "description": "Filmmaker Zhou Pin-yu interviews a serial killer in prison — an encounter that triggers a string of mysterious events tied to a buried past.",
+    "background": "https://image.tmdb.org/t/p/w1280/mTsft56kw9FpOBOeSv4Rx4Qly6a.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "10.0"
   }
 ]
