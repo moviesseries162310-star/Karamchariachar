@@ -534,5 +534,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cNY3cHnsohXl0ynMJErPJsS02mA.jpg",
     "released": "2025-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1NzSwqEwJZBLNL8Qmj-HXJyFI761KNHWh",
+    "type": "movie",
+    "name": "Last Samurai Standing",
+    "poster": "https://image.tmdb.org/t/p/w500/d3K7mugQwGdWf1Q9Fnb0m8y1Mng.jpg",
+    "description": "In post-samurai era Japan, 1878, 292 fallen samurais are lured into a survival game where the last competitor standing claims 100 billion yen. The battleground begins at Tenryuji Temple in Kyoto, a historical hub and spiritual sanctuary, and ends in Tokyo. Only one survivor will come out of this mysterious and deadly game.",
+    "background": "https://image.tmdb.org/t/p/w1280/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
