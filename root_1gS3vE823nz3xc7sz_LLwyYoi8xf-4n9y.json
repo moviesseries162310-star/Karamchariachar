@@ -336,5 +336,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/A7cQgocosUyQkZx1PTenp8EVZQZ.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.7"
+  },
+  {
+    "id": "gdrive-folder:1Dh7oR-3SD9WVYyU2XY6zjYgcraeU9QZW",
+    "type": "movie",
+    "name": "Super Crooks",
+    "poster": "https://image.tmdb.org/t/p/w500/8n1Zd4fG1eTf4adUBd7EQVEzWur.jpg",
+    "description": "Johnny Bolt recruits a group of ragtag supervillains for one last heist. Their target: A ruthless super-powered crime boss. What can go wrong?",
+    "background": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.0"
   }
 ]
