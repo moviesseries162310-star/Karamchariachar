@@ -545,5 +545,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/fqUallsX9KSSey1tw7AbujlOmOa.jpg",
     "description": "An underground MMA fighter must confront his sister and his past in an adventure through parallel universes",
     "background": "https://image.tmdb.org/t/p/w1280/4GbCLy8uia4nwc39CHOT0XHjnpY.jpg"
+  },
+  {
+    "id": "gdrive-folder:1joB4PN5-tjvDiAWoKlcC2qtlor7KUqOU",
+    "type": "movie",
+    "name": "Pluribus",
+    "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "description": "The most miserable person on Earth must save the world from happiness.",
+    "background": "https://image.tmdb.org/t/p/w1280/8Y6A0bjCi1ZVAYQzf0LlEmckv5O.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "8.8"
   }
 ]
