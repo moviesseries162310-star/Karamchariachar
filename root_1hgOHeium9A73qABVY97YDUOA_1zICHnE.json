@@ -238,5 +238,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aBES9VQIw3YwPXhVw3XLZtK4Eeq.jpg",
     "released": "2018-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive-folder:1EDk7-FoQfbsgrvvqXu7onr1Sv1YRjV_1",
+    "type": "movie",
+    "name": "Interview with the Vampire",
+    "poster": "https://image.tmdb.org/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg",
+    "description": "A century-old vampire from New Orleans reunites with an ailing journalist to recount his life of bloodlust and his tumultuous relationship with the rakish Frenchman who turned him.",
+    "background": "https://image.tmdb.org/t/p/w1280/r5RoeEWuslP6svlZsHsCKo7TZs7.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.4"
   }
 ]
