@@ -368,5 +368,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/nLjAcs4kikPWZpzyXMfHMlkMu80.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive-folder:1TkiJWfWttj76HXhIBI7GDhv4n7dQBx3m",
+    "type": "movie",
+    "name": "It's a Sin",
+    "poster": "https://image.tmdb.org/t/p/w500/tUaNS4b5TIiP1SwpHCYCbUoGpHG.jpg",
+    "description": "A chronicle of five friends during a decade in which everything changed, including the rise of AIDS.",
+    "background": "https://image.tmdb.org/t/p/w1280/pVkw6917LRh4mWkbDKe5sIMCzci.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.9"
   }
 ]
