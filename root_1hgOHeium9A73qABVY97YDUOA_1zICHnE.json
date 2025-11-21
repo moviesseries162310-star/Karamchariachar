@@ -28,5 +28,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive-folder:16lFwmCLjJRUay4bSja4oghhunyHwjRtJ",
+    "type": "movie",
+    "name": "Is It Cake? Holiday",
+    "poster": "https://image.tmdb.org/t/p/w500/5y6anTg9PUjsSVDfNmIHWntb2Z6.jpg",
+    "description": "Cake artists from past seasons return to craft tasty replicas of ice skates, nutcrackers and more in this holiday spin on the mind-bending baking contest.",
+    "background": "https://image.tmdb.org/t/p/w1280/961OPA1TxyLY3KA5i846K19F0wF.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "8.3"
   }
 ]
