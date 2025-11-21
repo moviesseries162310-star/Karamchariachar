@@ -208,5 +208,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kl8hBoMohGjWzXVGN5sd6xMeLZT.jpg",
     "released": "2017-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive-folder:1IylpsczopAdXeZYGPdD7A2dhR-EHphvm",
+    "type": "movie",
+    "name": "Inspector Avinash",
+    "poster": "https://image.tmdb.org/t/p/w500/cyX4lDfLOtejavCY5PbtRlk4C63.jpg",
+    "description": "Set in 1998 UP, this is the story of a dynamic cop leading a Special Task Force which becomes instrumental in eliminating a dreaded weapons cartel.",
+    "background": "https://image.tmdb.org/t/p/w1280/5X8rPeV0VhcPND4OHwgaudRqZhf.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "5.0"
   }
 ]
