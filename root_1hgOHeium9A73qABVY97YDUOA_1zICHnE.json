@@ -168,5 +168,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4qqxCA31Bj4CqimMkZxfCiYnX6r.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive-folder:1W4srNaJFW2J4MfGaH4y8XJCZjgClnKor",
+    "type": "movie",
+    "name": "Indian Summers",
+    "poster": "https://image.tmdb.org/t/p/w500/oTwAt5TGgRexivF0yOaMfRydPXo.jpg",
+    "description": "Epic drama set in the summer of 1932 where India dreams of independence, but the British are clinging to power. \n\nSet against the sweeping grandeur of the Himalayas and tea plantations of Northern India, the drama tells the rich and explosive story of the decline of the British Empire and the birth of modern India, from both sides of the experience. At the heart of the story lie the implications and ramifications of the tangled web of passions, rivalries and clashes that define the lives of those brought together in this summer which will change everything.",
+    "background": "https://image.tmdb.org/t/p/w1280/rmhXwUEawqm1fC1uPZDFtw7Mb00.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "7.1"
   }
 ]
