@@ -108,5 +108,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/KapWiv2ecDdp4nAP0AfWr321T9.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive-folder:1p9v2lAknMIXnOkXpVdFJ1kYodAfV_Pxh",
+    "type": "movie",
+    "name": "If I Were Luísa Sonza",
+    "poster": "https://image.tmdb.org/t/p/w500/gs891va2DcZRgJmQhDgVl3EdpyC.jpg",
+    "description": "Brazil's most polarizing pop singer opens up in this docuseries about her love life, career, controversies and the creation of a new album.",
+    "background": "https://image.tmdb.org/t/p/w1280/pAi087u9NtJUPGgGpUljUTQsJDP.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "7.2"
   }
 ]
