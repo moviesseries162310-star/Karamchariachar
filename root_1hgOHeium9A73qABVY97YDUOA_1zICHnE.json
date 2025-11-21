@@ -468,5 +468,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/d77WPPNbuvyGJJ675UFokVmOKHb.jpg",
     "released": "2020-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive-folder:17ekNR1y3PS68n_ev1uyFluh58d_CSrqM",
+    "type": "movie",
+    "name": "Inventing Anna",
+    "poster": "https://image.tmdb.org/t/p/w500/aZraQSnS9Dbvipv4WLJQ5xrhG3g.jpg",
+    "description": "Audacious entrepreneur or con artist? A journalist chases down the story of Anna Delvey, who convinced New York's elite she was a German heiress.",
+    "background": "https://image.tmdb.org/t/p/w1280/fiKQKFsjahOr8qj7QsUUHO9E70t.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.8"
   }
 ]
