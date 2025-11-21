@@ -148,5 +148,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/stKCslYVfAoWHrIQsye3qm9tBPl.jpg",
     "released": "2007-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive-folder:1eONUTh42ppLC_QJBABYa6nvDxNrpftzh",
+    "type": "movie",
+    "name": "Ishq Next Door",
+    "poster": "https://image.tmdb.org/t/p/w500/qca061YuyfGsU0bSTaFAQOxn46A.jpg",
+    "description": "A simple young guy leads a responsible, boring, and colorless life until he bumps into the 'girl next door'. Now his life is colorful but complicated.",
+    "background": "https://image.tmdb.org/t/p/w1280/2b0F7UKBFMh7o33LYRoXZHu4Yns.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "7.0"
   }
 ]
