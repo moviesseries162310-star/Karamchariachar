@@ -178,5 +178,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rmhXwUEawqm1fC1uPZDFtw7Mb00.jpg",
     "released": "2015-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive-folder:16Y7yBlX3h38W4aTGym9PADZpE9pRGekf",
+    "type": "movie",
+    "name": "iZombie",
+    "poster": "https://image.tmdb.org/t/p/w500/q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg",
+    "description": "A medical student who becomes a zombie joins a Coroner's Office in order to gain access to the brains she must reluctantly eat so that she can maintain her humanity. But every brain she eats, she also inherits their memories and must now solve their deaths with help from the Medical examiner and a police detective.",
+    "background": "https://image.tmdb.org/t/p/w1280/tCjXy1iCsr2BVlNczafnkZ40LPn.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "7.8"
   }
 ]
