@@ -128,5 +128,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xyE38udvQnkmVUwwZrKm5mAWcrf.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive-folder:1bX_PBFqGs7PFqLF3NOzM4b1XNEN8UI9H",
+    "type": "movie",
+    "name": "I Hate Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/oWLkjy7bBoOOzGRf54btMY2yApn.jpg",
+    "description": "A nurse who is happily single the rest of the year is sick of being shamed for being alone at the holidays, so vows on December 1 to find someone to take home for Christmas.",
+    "background": "https://image.tmdb.org/t/p/w1280/jAp4HEecU2GCUkeDplt5OpWw8dM.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.5"
   }
 ]
