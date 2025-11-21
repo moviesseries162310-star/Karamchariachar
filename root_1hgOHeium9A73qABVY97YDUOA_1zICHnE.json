@@ -88,5 +88,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ps6I4nP6I5KzCyI3wrHmg1FQ6Nu.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive-folder:1Y4Fqn8VHiDAuVNpOlhk07a0yQD_7XTzQ",
+    "type": "movie",
+    "name": "Inspector Rishi",
+    "poster": "https://image.tmdb.org/t/p/w500/w5jcmfhqjGQxtXvWQ2xt60ueGZA.jpg",
+    "description": "A sceptic one-eyed crime branch Inspector Rishi Nandhan assisted by his two trusted sub-inspectors Ayyanar and Chitra, investigates strange and mind-bending cases involving supernatural or paranormal phenomena. He stops at nothing in his efforts to find the truth behind unexplainable murders while also battling various challenges in his personal life.",
+    "background": "https://image.tmdb.org/t/p/w1280/7NOGMuMZ6rOhZIfmMmUxWwAFdw8.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.0"
   }
 ]
