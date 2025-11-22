@@ -376,5 +376,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/a9Y9xwkrqE4vOK12qfZejZXgDjb.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive-folder:1g9LKpo7xfatrZS4FsdzWiKh4q-iTnPiS",
+    "type": "movie",
+    "name": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
+    "poster": "https://image.tmdb.org/t/p/w500/ftrR07cAuHyWR3YZFne9EzME0Km.jpg",
+    "description": "Sixteen years after the \"Law for Public Order and Morals in Healthy Child-Raising\" banned coarse language in the country, Tanukichi Okuma enrolls in the country's leading elite public morals school and is soon invited into the Anti-Societal Organization (SOX) by its founder, Ayame Kajou. As a member blackmailed into joining by Ayame, Tanukichi ends up taking part in obscene acts of terrorism against the talented student council president Anna (for whom Tanukichi has a crush on).",
+    "background": "https://image.tmdb.org/t/p/w1280/zwU5YOrOIGJrDF5ZEUtbAOxY15q.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "7.0"
   }
 ]
