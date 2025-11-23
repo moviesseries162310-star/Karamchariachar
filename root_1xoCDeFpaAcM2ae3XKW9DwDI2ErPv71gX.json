@@ -906,5 +906,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sFcJMla4niXDeOXrrE8StmjzUmt.jpg",
     "released": "2025-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1epVudgKOjbA4euX4pX9UlWL344D8vc_L",
+    "type": "movie",
+    "name": "Murdaugh: Death in the Family",
+    "poster": "https://image.tmdb.org/t/p/w500/fqNT4hsPdA0999NEMuLVeja4Cm2.jpg",
+    "description": "Maggie and Alex enjoy a lavish life of privilege as members of one of South Carolina's most powerful legal dynasties. But when their son Paul is involved in a deadly boat crash, the family is faced with a test unlike any they've ever encountered. As details come to light and new challenges emerge, the family's connections to several mysterious deaths raise questions which threaten everything Maggie and Alex hold dear.",
+    "background": "https://image.tmdb.org/t/p/w1280/pIbemkVivwk1SKVvmKlo53edMZt.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.2"
   }
 ]
