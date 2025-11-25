@@ -386,5 +386,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zwU5YOrOIGJrDF5ZEUtbAOxY15q.jpg",
     "released": "2015-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:14np636ttHmPMgqxEodE8X3iLZ3W1ldi_",
+    "type": "movie",
+    "name": "The Dangers in My Heart",
+    "poster": "https://image.tmdb.org/t/p/w500/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+    "description": "Kyotaro Ichikawa, a boy barely clinging to the bottom rung of his school's social ladder, secretly believes he’s the tortured lead in some psychological thriller. He spends his days dreaming up ways to disrupt his classmates' peaceful lives and pining after Anna Yamada, the class idol. But Kyotaro's not nearly the troubled teen he pretends to be…and it turns out Anna's a bit odd herself!",
+    "background": "https://image.tmdb.org/t/p/w1280/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.5"
   }
 ]
