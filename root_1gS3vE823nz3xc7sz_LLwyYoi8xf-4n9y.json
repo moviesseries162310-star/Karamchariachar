@@ -396,5 +396,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:1yfjVTOJuiNc2iNXkrr6gqlOg9OI4S8uy",
+    "type": "movie",
+    "name": "The Fragrant Flower Blooms with Dignity",
+    "poster": "https://image.tmdb.org/t/p/w500/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg",
+    "description": "When the intimidating Rintaro meets the open-minded Kaoruko, the unlikely duo grows closer. The issue? Their neighboring high schools hate each other.",
+    "background": "https://image.tmdb.org/t/p/w1280/dl3pdT1NZiqRM4aDBwsD2TtO8x9.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "8.7"
   }
 ]
