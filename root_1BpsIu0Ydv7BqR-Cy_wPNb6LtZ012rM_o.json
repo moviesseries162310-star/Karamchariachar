@@ -555,5 +555,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8Y6A0bjCi1ZVAYQzf0LlEmckv5O.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.8"
+  },
+  {
+    "id": "gdrive-folder:1fKEX9dXIS9_hXpD8whGTUCSJn9z00a98",
+    "type": "movie",
+    "name": "Playing Gracie Darling",
+    "poster": "https://image.tmdb.org/t/p/w500/7UWdkbSUd1d1GB28IyIKDbftzhM.jpg",
+    "description": "When Joni was 14, her best friend Gracie Darling disappeared during a séance. Some 27 years on, the local kids in a small town get their kicks with a game of 'Playing Gracie Darling' – but the seemingly innocent game turns sinister when another girl disappears. Joni, by then a child psychologist, returns to the town and partners with a police sergeant Jay to uncover the truth, while Gracie's sister Ruth faces a mother's worst nightmare when her own daughter vanishes under hauntingly similar circumstances.",
+    "background": "https://image.tmdb.org/t/p/w1280/suCtNSA0U8Gtb7JxMJ6IfhHJUwa.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.3"
   }
 ]
