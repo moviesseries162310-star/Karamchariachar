@@ -3285,5 +3285,15 @@
     "background": "https://image.tmdb.org/t/p/original/l9FWN87SlcAhWDBSbG1bnfbm8dN.jpg",
     "released": "2025-11-14",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive-folder:1bcYCA9HFy9Xcysxa1buIMnwUNsmo-Egu",
+    "type": "movie",
+    "name": "The Chair Company",
+    "poster": "https://image.tmdb.org/t/p/w500/xZgftEXZXTM47k2rZlXo8kr8HZF.jpg",
+    "description": "After an embarrassing incident at work, suburban family man William Ronald Trosper finds himself investigating a far-reaching conspiracy.",
+    "background": "https://image.tmdb.org/t/p/w1280/jq9biQdGSL0GIUyDaLLl7x8rgzm.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.2"
   }
 ]
