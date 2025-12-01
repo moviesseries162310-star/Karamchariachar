@@ -728,5 +728,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/d1i6oB5xdo2a7sOmjprCcElqlrD.jpg",
     "released": "2021-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive:1UaAs30WeB3MM82_FhWYlRQnZrU50TRkG",
+    "type": "movie",
+    "name": "Trolls Band Together",
+    "poster": "https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg",
+    "description": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+    "background": "https://image.tmdb.org/t/p/w1280/mDW6z7I6de6JbUgPOkAEZwKbg7G.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "7.3"
   }
 ]
