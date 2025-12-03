@@ -406,5 +406,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dl3pdT1NZiqRM4aDBwsD2TtO8x9.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.7"
+  },
+  {
+    "id": "gdrive-folder:1FTMXo832ysqLB08aSPXmKoj73Y0ITBY4",
+    "type": "movie",
+    "name": "Girlfriend, Girlfriend",
+    "poster": "https://image.tmdb.org/t/p/w500/xuN0zBzHKyakCQFApBxRvpbKTh5.jpg",
+    "description": "Naoya Mukai has loved Saki Saki since grade school, and when she finally accepts his feelings, he's at his happiest. But one day, a cute girl named Nagisa Minase confesses to him! Not wishing to choose only one over another, Naoya chooses to go out with both of them!! What will be of this love triangle that challenges morality itself?",
+    "background": "https://image.tmdb.org/t/p/w1280/fq0DXgxDLgoilru3M7XVzKjGbOm.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.2"
   }
 ]
