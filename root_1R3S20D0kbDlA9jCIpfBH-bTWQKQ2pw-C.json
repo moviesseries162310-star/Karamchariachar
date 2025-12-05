@@ -4327,5 +4327,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mwkvl5ghbJ3qGbHImLNkAtqKJ1g.jpg",
     "released": "2016-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive-folder:1D9nG0DFz6UEwrp_81PzaCtUgdUMaBzUB",
+    "type": "movie",
+    "name": "The Price of Confession",
+    "poster": "https://image.tmdb.org/t/p/w500/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
+    "description": "Accused of her husband's murder, a woman finds an unexpected ally in a mysterious stranger. Together, they navigate a web of secrets and hidden truths.",
+    "background": "https://image.tmdb.org/t/p/w1280/4Bvk0EVHCjswWQYFHdRNsVWLtk8.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
   }
 ]
