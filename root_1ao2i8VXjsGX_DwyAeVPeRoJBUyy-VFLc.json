@@ -1311,5 +1311,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bcs8l51qpjNdFZK64VhUXZkRSsL.jpg",
     "released": "2016-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive-folder:1kI6yzgYOXiXUejheOy_Su465sCz-68Rl",
+    "type": "movie",
+    "name": "Spartacus: House of Ashur",
+    "poster": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+    "description": "What if Ashur had lived, given the ludus where he once bled? In the House of Ashur, he owns the school that once owned him. But Roman politics are deadlier. With Achillia, a fierce gladiatrix, he ignites spectacles that defy the elite.",
+    "background": "https://image.tmdb.org/t/p/w1280/29O1LSRZQyo69WhJQe7CP8zvPP3.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "1.0"
   }
 ]
