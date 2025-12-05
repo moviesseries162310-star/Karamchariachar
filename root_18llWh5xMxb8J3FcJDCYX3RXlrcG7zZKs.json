@@ -4710,5 +4710,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive:1oNEAR2rAKKxLoN6lr6KTNo5F7IEoeHl-",
+    "type": "movie",
+    "name": "The First Snow of Fraggle Rock",
+    "poster": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+    "description": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+    "background": "https://image.tmdb.org/t/p/w1280/h5hCdU9KvcCbBihSNfn3vtML7tV.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
   }
 ]
