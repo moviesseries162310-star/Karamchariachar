@@ -751,5 +751,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9WmDfvPWeGqKAuYIGcEsbZV6a7K.jpg",
     "released": "2024-01-01",
     "imdbRating": "5.1"
+  },
+  {
+    "id": "gdrive-folder:1oWz5sgyMK6773LFY3RERkNnwg_0jHTG_",
+    "type": "movie",
+    "name": "Dispatches from Elsewhere",
+    "poster": "https://image.tmdb.org/t/p/w500/kWskCna5DnRutdc66XERYFGek5s.jpg",
+    "description": "A group of ordinary people who stumble onto a puzzle hiding just behind the veil of everyday life come to find that the mystery winds far deeper than they ever imagined.",
+    "background": "https://image.tmdb.org/t/p/w1280/ihQZnWgsTUzgm1Cjr94y7sdwlDl.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.7"
   }
 ]
