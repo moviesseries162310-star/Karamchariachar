@@ -4720,5 +4720,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/h5hCdU9KvcCbBihSNfn3vtML7tV.jpg",
     "released": "2025-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1FzBOnEDq5bY_IWnBPUy74NDbQljbSmKn",
+    "type": "movie",
+    "name": "Chainsaw Man - The Movie: Reze Arc",
+    "poster": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+    "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+    "background": "https://image.tmdb.org/t/p/w1280/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.8"
   }
 ]
